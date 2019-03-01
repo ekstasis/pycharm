@@ -1,0 +1,1817 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/start_script.py" timestamp="1549923075581">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/deleteme.py" timestamp="1543427502724">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1550353796437">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/Audio/Programming/Crypto/gobot/gobot/check_last_trade.py" timestamp="1526934314739">
+        <mark key="[" line="20" column="25" />
+        <mark key="]" line="20" column="27" />
+        <mark key="^" line="20" column="27" />
+        <mark key="." line="20" column="27" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/testing/__init__.py" timestamp="1534361619131">
+        <mark key="[" line="0" column="40" />
+        <mark key="]" line="0" column="40" />
+        <mark key="^" line="0" column="40" />
+        <mark key="." line="0" column="40" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/testing/test_db_queries.py" timestamp="1535400181133">
+        <mark key="'" line="182" column="17" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="55" />
+        <mark key="." line="0" column="55" />
+        <mark key="^" line="0" column="55" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/helpers.py" timestamp="1550361620503">
+        <mark key="'" line="110" column="22" />
+        <mark key="[" line="187" column="4" />
+        <mark key="]" line="187" column="4" />
+        <mark key="." line="187" column="4" />
+        <mark key="^" line="186" column="29" />
+      </file>
+      <file name="/'backtest_1'" timestamp="1527005543352">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/False" timestamp="1533422304846">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/jb/work/API.py" timestamp="1543428885497">
+        <mark key="[" line="4" column="52" />
+        <mark key="]" line="4" column="53" />
+        <mark key="." line="4" column="53" />
+        <mark key="^" line="3" column="13" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/testing/create_test_db.py" timestamp="1534172993418">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="27" />
+        <mark key="^" line="3" column="27" />
+        <mark key="." line="3" column="27" />
+      </file>
+      <file name="/Python Fragment (Trader.py:2827).py" timestamp="1533570029643">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/tests/test_close_trades.py" timestamp="1550028239978">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="31" />
+        <mark key="^" line="11" column="31" />
+        <mark key="." line="11" column="31" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/test_project/runner.py" timestamp="1534028573091">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="6" />
+        <mark key="." line="5" column="6" />
+        <mark key="^" line="5" column="6" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled/ff/foo2.py" timestamp="1534302099091">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/jb/go_bot_go.py" timestamp="1550353610607">
+        <mark key="'" line="8" column="24" />
+        <mark key="[" line="1" column="3" />
+        <mark key="]" line="2" column="33" />
+        <mark key="^" line="2" column="33" />
+        <mark key="." line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/tests/test_coinigy_data_api.py" timestamp="1550025231141">
+        <mark key="'" line="24" column="51" />
+        <mark key="[" line="16" column="48" />
+        <mark key="]" line="10" column="31" />
+        <mark key="." line="10" column="31" />
+        <mark key="^" line="10" column="31" />
+      </file>
+      <file name="/Volumes/Audio/Programming/Crypto/gobot/jb/work/phantom-all.txt" timestamp="1532458421099">
+        <mark key="[" line="26" column="70" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/crontabs/coinigy_data_api.py" timestamp="1550353237504">
+        <mark key="'" line="47" column="31" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="44" />
+        <mark key="." line="47" column="31" />
+        <mark key="^" line="47" column="31" />
+      </file>
+      <file name="/Volumes/Audio/Programming/Crypto/gobot/gobot/analysis/plotly_plotter.py" timestamp="1528405307988">
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="21" />
+        <mark key="^" line="19" column="89" />
+        <mark key="." line="14" column="21" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/testing/test_db.py" timestamp="1535400101997">
+        <mark key="'" line="3" column="21" />
+        <mark key="[" line="19" column="28" />
+        <mark key="]" line="14" column="6" />
+        <mark key="^" line="14" column="6" />
+        <mark key="." line="14" column="6" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/grabber.py" timestamp="1550354900776">
+        <mark key="'" line="130" column="0" />
+        <mark key="[" line="323" column="0" />
+        <mark key="]" line="323" column="0" />
+        <mark key="." line="323" column="0" />
+        <mark key="^" line="63" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/backtesting/new_backtest_v2.py" timestamp="1550355076963">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled/package/foo1.py" timestamp="1534302784395">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+        <mark key="^" line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/tests/db_queries.py" timestamp="1535551881894">
+        <mark key="'" line="182" column="197" />
+        <mark key="[" line="288" column="61" />
+        <mark key="]" line="288" column="61" />
+        <mark key="." line="288" column="61" />
+        <mark key="^" line="288" column="60" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/tests/test_updater.py" timestamp="1550028731751">
+        <mark key="'" line="23" column="26" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="29" column="39" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/scratch/rugged_compare.py" timestamp="1534877134121">
+        <mark key="'" line="38" column="8" />
+        <mark key="[" line="24" column="21" />
+        <mark key="]" line="24" column="24" />
+        <mark key="^" line="24" column="24" />
+        <mark key="." line="24" column="24" />
+      </file>
+      <file name="/'devbot'" timestamp="1535550532895">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/" timestamp="1535550508627">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/testing/test_test_db.py" timestamp="1535247158774">
+        <mark key="[" line="5" column="56" />
+        <mark key="]" line="6" column="12" />
+        <mark key="." line="6" column="12" />
+        <mark key="^" line="6" column="12" />
+      </file>
+      <file name="/Volumes/Audio/Programming/Crypto/gobot/gobot/test/testest.py" timestamp="1525643438137">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/delete_me2.py" timestamp="1534287256312">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="7" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/phantom/phantom_tests/test_phantom.py" timestamp="1534282572833">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/jb/alchemy.py" timestamp="1546102288121">
+        <mark key="[" line="20" column="22" />
+        <mark key="]" line="20" column="30" />
+        <mark key="." line="20" column="30" />
+        <mark key="^" line="20" column="30" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/run_gobot.py" timestamp="1550356342520">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="8" />
+        <mark key="." line="12" column="8" />
+        <mark key="^" line="12" column="8" />
+      </file>
+      <file name="/Volumes/Audio/Programming/Crypto/gobot/app_support/prime_ema.py" timestamp="1526767500055">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="10" column="10" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="/Volumes/Audio/Programming/Crypto/gobot/jb/work/helpers.py" timestamp="1526779619472">
+        <mark key="[" line="49" column="30" />
+        <mark key="]" line="50" column="19" />
+        <mark key="." line="50" column="19" />
+        <mark key="^" line="50" column="19" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/testing/data_files/__init__.py" timestamp="1534361528291">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/alchemy_scratch.py" timestamp="1544814265632">
+        <mark key="[" line="2" column="75" />
+        <mark key="]" line="2" column="75" />
+        <mark key="." line="2" column="75" />
+        <mark key="^" line="2" column="69" />
+      </file>
+      <file name="/Python Console" timestamp="1550515597175">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1550021651260">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/Audio/Programming/Crypto/gobot/gobot/exchanges.py" timestamp="1524864538791">
+        <mark key="[" line="36" column="38" />
+        <mark key="]" line="36" column="39" />
+        <mark key="^" line="22" column="35" />
+        <mark key="." line="36" column="39" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/crontabs/run_bot.sh" timestamp="1550358534004">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="48" />
+        <mark key="^" line="2" column="48" />
+        <mark key="." line="2" column="48" />
+      </file>
+      <file name="/Volumes/Audio/Programming/Crypto/gobot/testing/mail_log_test.py" timestamp="1522989049011">
+        <mark key="[" line="41" column="22" />
+        <mark key="]" line="41" column="29" />
+        <mark key="." line="41" column="29" />
+        <mark key="^" line="41" column="29" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/phantom mode psudocode.txt" timestamp="1531867265812">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/__init__.py" timestamp="1534303000167">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/phantom/tests/testing123.py" timestamp="1535402375255">
+        <mark key="'" line="1" column="29" />
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="1" column="30" />
+        <mark key="." line="1" column="30" />
+        <mark key="^" line="28" column="35" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/app_support/prime_ema.py" timestamp="1549923648913">
+        <mark key="'" line="26" column="43" />
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1550027760226">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="22" />
+        <mark key="." line="5" column="22" />
+        <mark key="^" line="5" column="22" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled/package/__init__.py" timestamp="1534302592301">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="29" />
+        <mark key="." line="0" column="29" />
+        <mark key="^" line="0" column="29" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/backtesting/new_backtest.py" timestamp="1550355074156">
+        <mark key="'" line="44" column="21" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/tests/test_phantom.py" timestamp="1549856688855">
+        <mark key="'" line="83" column="69" />
+        <mark key="[" line="23" column="27" />
+        <mark key="]" line="24" column="19" />
+        <mark key="^" line="24" column="19" />
+        <mark key="." line="24" column="19" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/jb/sqlalchemy.py" timestamp="1546097966578">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="35" />
+        <mark key="." line="0" column="35" />
+        <mark key="^" line="0" column="35" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled/ff/foo1.py" timestamp="1534302403195">
+        <mark key="[" line="1" column="1" />
+        <mark key="]" line="1" column="1" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="1" column="1" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/jb/Notes/diary.txt" timestamp="1545006435239">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="4" column="42" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/tests/test_gobotDB.py" timestamp="1550364285661">
+        <mark key="'" line="26" column="46" />
+        <mark key="[" line="25" column="31" />
+        <mark key="]" line="25" column="32" />
+        <mark key="." line="25" column="32" />
+        <mark key="^" line="25" column="20" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/phantom/phantom.py" timestamp="1544820907006">
+        <mark key="'" line="105" column="54" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
+        <mark key="^" line="104" column="98" />
+      </file>
+      <file name="/Volumes/Audio/Programming/Crypto/gobot/testing/helpers_test.py" timestamp="1525292155532">
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="16" column="17" />
+        <mark key="." line="16" column="17" />
+        <mark key="^" line="21" column="112" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/jb/work/new_system.py" timestamp="1543422816221">
+        <mark key="'" line="16" column="14" />
+        <mark key="[" line="25" column="43" />
+        <mark key="]" line="25" column="74" />
+        <mark key="." line="25" column="74" />
+        <mark key="^" line="25" column="74" />
+      </file>
+      <file name="/Volumes/Audio/Programming/Crypto/gobot/testing/analysis_utests.py" timestamp="1525735230815">
+        <mark key="[" line="13" column="14" />
+        <mark key="]" line="13" column="46" />
+        <mark key="." line="13" column="46" />
+        <mark key="^" line="13" column="46" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/backtesting/new_backtest_v3.py" timestamp="1550355080108">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/Updater.py" timestamp="1550366003621">
+        <mark key="'" line="193" column="89" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="51" column="15" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch2.txt" timestamp="1531249463633">
+        <mark key="[" line="38" column="13" />
+        <mark key="]" line="38" column="15" />
+        <mark key="." line="38" column="15" />
+        <mark key="^" line="38" column="15" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled/sibling/sib.py" timestamp="1534302749563">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/miniconda3/envs/py35/lib/python3.5/site-packages/gdax/order_book.py" timestamp="1527910946712">
+        <mark key="[" line="98" column="9" />
+        <mark key="]" line="98" column="19" />
+        <mark key="^" line="98" column="19" />
+        <mark key="." line="98" column="19" />
+      </file>
+      <file name="/Volumes/Audio/Programming/Crypto/gobot/gobot/analysis/analyze_trade.py" timestamp="1526337084075">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="118" column="18" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/backtesting/newtest.py" timestamp="1550355083563">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/PycharmProjects/scratch/compount.py" timestamp="1538518762537">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="20" column="20" />
+        <mark key="." line="20" column="20" />
+        <mark key="^" line="20" column="20" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/reset_db.py" timestamp="1544820943324">
+        <mark key="[" line="27" column="97" />
+        <mark key="]" line="27" column="97" />
+        <mark key="^" line="27" column="97" />
+        <mark key="." line="27" column="97" />
+      </file>
+      <file name="/Volumes/Audio/Programming/Crypto/gobot/testing/new_test.py" timestamp="1525647957974">
+        <mark key="[" line="22" column="30" />
+        <mark key="]" line="22" column="33" />
+        <mark key="." line="22" column="33" />
+        <mark key="^" line="22" column="33" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled/package/foo2.py" timestamp="1534302685580">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/Decider.py" timestamp="1544704384323">
+        <mark key="'" line="45" column="57" />
+        <mark key="[" line="173" column="38" />
+        <mark key="]" line="173" column="97" />
+        <mark key="." line="173" column="97" />
+        <mark key="^" line="173" column="97" />
+      </file>
+      <file name="/Volumes/Audio/Programming/Crypto/gobot/gobot/backtesting/Result.py" timestamp="1527707459332">
+        <mark key="[" line="155" column="38" />
+        <mark key="]" line="157" column="18" />
+        <mark key="^" line="157" column="18" />
+        <mark key="." line="157" column="18" />
+      </file>
+      <file name="/Volumes/Audio/Programming/Crypto/gobot/backtesting/prime_ema.py" timestamp="1523323992033">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="28" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="6" column="28" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/tests/active_tests/test_gobotDB.py" timestamp="1544498750056">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="8" column="26" />
+        <mark key="." line="8" column="26" />
+        <mark key="^" line="8" column="26" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/exchanges.py" timestamp="1544712333794">
+        <mark key="'" line="62" column="4" />
+        <mark key="[" line="31" column="12" />
+        <mark key="]" line="31" column="16" />
+        <mark key="." line="31" column="16" />
+        <mark key="^" line="31" column="16" />
+      </file>
+      <file name="/Volumes/Audio/Programming/Crypto/gobot/gobot/analysis/sale.py" timestamp="1527101865386">
+        <mark key="[" line="80" column="56" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+        <mark key="^" line="81" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/test_project/imports/import_me.py" timestamp="1534028216993">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="16" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/delete_me.py" timestamp="1534286362229">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/prime_ema.py" timestamp="1549854297471">
+        <mark key="[" line="1" column="87" />
+        <mark key="]" line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/testing/mock_db.py" timestamp="1535401508270">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" timestamp="1550351203427">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="231" column="24" />
+        <mark key="]" line="232" column="7" />
+        <mark key="." line="232" column="7" />
+        <mark key="^" line="232" column="7" />
+      </file>
+      <file name="/Volumes/Audio/Programming/Crypto/gobot/gobot/analysis/plot_gains.py" timestamp="1527968576120">
+        <mark key="[" line="288" column="0" />
+        <mark key="]" line="299" column="13" />
+        <mark key="." line="47" column="3" />
+        <mark key="^" line="47" column="3" />
+      </file>
+      <file name="/Volumes/Audio/Programming/Crypto/gobot/gobot/analysis/stats.py" timestamp="1525646581604">
+        <mark key="[" line="148" column="53" />
+        <mark key="]" line="148" column="53" />
+        <mark key="." line="148" column="53" />
+        <mark key="^" line="148" column="53" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/backtesting/update_tradingpairs.py" timestamp="1550355086619">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/testing/data_files/test_db_queries.py" timestamp="1535230694979">
+        <mark key="[" line="2" column="106" />
+        <mark key="]" line="2" column="106" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="2" column="106" />
+      </file>
+      <file name="/Volumes/Audio/Programming/Crypto/gobot/backtesting/backtesting_05_18/backtester.py" timestamp="1526670793498">
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="7" column="43" />
+        <mark key="^" line="7" column="43" />
+        <mark key="." line="7" column="43" />
+      </file>
+      <file name="/None" timestamp="1535550529263">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/Audio/Programming/Crypto/gobot/gobot/grabber.py" timestamp="1526431056132">
+        <mark key="[" line="194" column="28" />
+        <mark key="]" line="194" column="32" />
+        <mark key="^" line="194" column="32" />
+        <mark key="." line="194" column="32" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/coinigy_api_functions.py" timestamp="1544510303444">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/jb/compare_a1_a3.py" timestamp="1550352093860">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/tests/active_tests/test_phantom.py" timestamp="1544816467426">
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="^" line="104" column="31" />
+        <mark key="." line="114" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/backtesting/Backtester.py" timestamp="1550355066269">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/backtesting/Backtester_v0.py" timestamp="1550355070417">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/test_project/folder/runner.py" timestamp="1534028274456">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="3" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/coinigy_data_api.py" timestamp="1550360831545">
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="^" line="82" column="0" />
+        <mark key="." line="120" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/app_support/toggle_phantom_mode.py" timestamp="1550352446282">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="52" />
+        <mark key="^" line="6" column="52" />
+        <mark key="." line="6" column="52" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/gobotDB.py" timestamp="1550524536741">
+        <mark key="[" line="27" column="45" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="36" column="9" />
+      </file>
+      <file name="/Volumes/Audio/Programming/Crypto/gobot/jb/jb_email.py" timestamp="1523049230771">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+        <mark key="^" line="6" column="21" />
+      </file>
+      <file name="/Volumes/Audio/Programming/Crypto/gobot/backtesting/backtesting_05_18/updater_backtest.py" timestamp="1526704134657">
+        <mark key="[" line="30" column="25" />
+        <mark key="]" line="30" column="25" />
+        <mark key="." line="30" column="25" />
+        <mark key="^" line="52" column="82" />
+      </file>
+      <file name="/Volumes/Audio/Programming/Crypto/gobot/gobot/analysis/plotly_ploter.py" timestamp="1528402804946">
+        <mark key="[" line="15" column="44" />
+        <mark key="]" line="15" column="44" />
+        <mark key="." line="15" column="44" />
+        <mark key="^" line="21" column="36" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/app_support/test.ini" timestamp="1535439396502">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="/Volumes/Audio/Programming/Crypto/gobot/testing/ledger_test.py" timestamp="1525034349804">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="27" />
+        <mark key="." line="12" column="27" />
+        <mark key="^" line="12" column="27" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/tests/active_tests/test_trader.py" timestamp="1543977741028">
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="11" column="32" />
+        <mark key="^" line="12" column="20" />
+        <mark key="." line="11" column="32" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1550524798462">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/phantom.py" timestamp="1549922289641">
+        <mark key="'" line="111" column="32" />
+        <mark key="[" line="30" column="55" />
+        <mark key="]" line="30" column="55" />
+        <mark key="^" line="30" column="55" />
+        <mark key="." line="30" column="55" />
+      </file>
+      <file name="/Volumes/Audio/Programming/Crypto/gobot/gobot/API" timestamp="1522205320322">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+        <mark key="^" line="2" column="12" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/tests/test_helpers.py" timestamp="1550361899607">
+        <mark key="[" line="74" column="33" />
+        <mark key="]" line="74" column="33" />
+        <mark key="^" line="73" column="46" />
+        <mark key="." line="74" column="33" />
+      </file>
+      <file name="/Volumes/Audio/Programming/Crypto/gobot/gobot/gdax_functions.py" timestamp="1525040983605">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="67" />
+        <mark key="." line="37" column="65" />
+        <mark key="^" line="37" column="65" />
+      </file>
+      <file name="/Volumes/Audio/Programming/Crypto/gobot/gobot/analysis/plotting.py" timestamp="1528396576767">
+        <mark key="[" line="90" column="37" />
+        <mark key="]" line="90" column="41" />
+        <mark key="^" line="90" column="41" />
+        <mark key="." line="90" column="41" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/tests/active_tests/test_reset_db.py" timestamp="1544817987330">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="/Volumes/Audio/Programming/Crypto/gobot/jb/work/jb_email.py" timestamp="1533168837288">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="3" column="115" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="/Volumes/Audio/Programming/Crypto/gobot/gobot/test/__init__.py" timestamp="1525644218688">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="31" />
+        <mark key="^" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/app_support/reset_db.py" timestamp="1544817732891">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="26" column="26" />
+      </file>
+      <file name="/Volumes/Audio/Programming/Crypto/gobot/gobot/sale.py" timestamp="1526605305907">
+        <mark key="[" line="29" column="88" />
+        <mark key="]" line="29" column="42" />
+        <mark key="^" line="29" column="42" />
+        <mark key="." line="29" column="42" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/analysis/utilities.py" timestamp="1548719370278">
+        <mark key="'" line="56" column="24" />
+        <mark key="[" line="177" column="34" />
+        <mark key="]" line="232" column="0" />
+        <mark key="." line="232" column="0" />
+        <mark key="^" line="252" column="0" />
+      </file>
+      <file name="$USER_HOME$/Programming/Crypto/gobot/app_support/config.ini" timestamp="1550362922462">
+        <mark key="'" line="45" column="10" />
+        <mark key="[" line="45" column="11" />
+        <mark key="]" line="45" column="11" />
+        <mark key="." line="45" column="11" />
+        <mark key="^" line="42" column="21" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="10" column="12" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/grabber.py" />
+      <jump line="77" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/helpers.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/helpers.py" />
+      <jump line="141" column="31" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/helpers.py" />
+      <jump line="164" column="9" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/grabber.py" />
+      <jump line="174" column="9" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/grabber.py" />
+      <jump line="187" column="13" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/grabber.py" />
+      <jump line="19" column="65" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/grabber.py" />
+      <jump line="165" column="32" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/grabber.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/test_support/mock_db.py" />
+      <jump line="149" column="96" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/test_support/db_queries.py" />
+      <jump line="181" column="39" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/test_support/db_queries.py" />
+      <jump line="265" column="86" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/test_support/db_queries.py" />
+      <jump line="122" column="33" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/test_support/db_queries.py" />
+      <jump line="140" column="11" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/helpers.py" />
+      <jump line="142" column="31" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/helpers.py" />
+      <jump line="110" column="22" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/helpers.py" />
+      <jump line="22" column="12" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/test_support/mock_db.py" />
+      <jump line="30" column="106" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/test_support/mock_db.py" />
+      <jump line="121" column="5" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/phantom.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/phantom.py" />
+      <jump line="124" column="35" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/phantom.py" />
+      <jump line="107" column="30" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/phantom.py" />
+      <jump line="108" column="31" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/phantom.py" />
+      <jump line="111" column="32" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/phantom.py" />
+      <jump line="86" column="36" filename="$USER_HOME$/Programming/Crypto/gobot/tests/test_phantom.py" />
+      <jump line="87" column="57" filename="$USER_HOME$/Programming/Crypto/gobot/tests/test_phantom.py" />
+      <jump line="99" column="57" filename="$USER_HOME$/Programming/Crypto/gobot/tests/test_phantom.py" />
+      <jump line="104" column="71" filename="$USER_HOME$/Programming/Crypto/gobot/tests/test_phantom.py" />
+      <jump line="107" column="36" filename="$USER_HOME$/Programming/Crypto/gobot/tests/test_phantom.py" />
+      <jump line="109" column="57" filename="$USER_HOME$/Programming/Crypto/gobot/tests/test_phantom.py" />
+      <jump line="121" column="57" filename="$USER_HOME$/Programming/Crypto/gobot/tests/test_phantom.py" />
+      <jump line="134" column="69" filename="$USER_HOME$/Programming/Crypto/gobot/tests/test_phantom.py" />
+      <jump line="139" column="53" filename="$USER_HOME$/Programming/Crypto/gobot/tests/test_phantom.py" />
+      <jump line="140" column="62" filename="$USER_HOME$/Programming/Crypto/gobot/tests/test_phantom.py" />
+      <jump line="141" column="58" filename="$USER_HOME$/Programming/Crypto/gobot/tests/test_phantom.py" />
+      <jump line="143" column="31" filename="$USER_HOME$/Programming/Crypto/gobot/tests/test_phantom.py" />
+      <jump line="144" column="31" filename="$USER_HOME$/Programming/Crypto/gobot/tests/test_phantom.py" />
+      <jump line="145" column="62" filename="$USER_HOME$/Programming/Crypto/gobot/tests/test_phantom.py" />
+      <jump line="146" column="62" filename="$USER_HOME$/Programming/Crypto/gobot/tests/test_phantom.py" />
+      <jump line="147" column="61" filename="$USER_HOME$/Programming/Crypto/gobot/tests/test_phantom.py" />
+      <jump line="148" column="57" filename="$USER_HOME$/Programming/Crypto/gobot/tests/test_phantom.py" />
+      <jump line="165" column="30" filename="$USER_HOME$/Programming/Crypto/gobot/tests/test_phantom.py" />
+      <jump line="168" column="30" filename="$USER_HOME$/Programming/Crypto/gobot/tests/test_phantom.py" />
+      <jump line="171" column="30" filename="$USER_HOME$/Programming/Crypto/gobot/tests/test_phantom.py" />
+      <jump line="174" column="30" filename="$USER_HOME$/Programming/Crypto/gobot/tests/test_phantom.py" />
+      <jump line="83" column="69" filename="$USER_HOME$/Programming/Crypto/gobot/tests/test_phantom.py" />
+      <jump line="89" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/Trader.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/Trader.py" />
+      <jump line="553" column="25" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/Trader.py" />
+      <jump line="569" column="28" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/Trader.py" />
+      <jump line="570" column="40" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/Trader.py" />
+      <jump line="571" column="65" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/Trader.py" />
+      <jump line="250" column="34" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/Trader.py" />
+      <jump line="275" column="17" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/Trader.py" />
+      <jump line="276" column="22" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/Trader.py" />
+      <jump line="323" column="25" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/Trader.py" />
+      <jump line="542" column="26" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/Trader.py" />
+      <jump line="543" column="41" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/Trader.py" />
+      <jump line="544" column="42" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/Trader.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
+      <jump line="329" column="10" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
+      <jump line="109" column="54" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
+      <jump line="183" column="36" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
+      <jump line="24" column="43" filename="$USER_HOME$/Programming/Crypto/gobot/app_support/prime_ema.py" />
+      <jump line="262" column="13" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
+      <jump line="269" column="7" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
+      <jump line="80" column="27" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
+      <jump line="86" column="35" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
+      <jump line="85" column="30" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
+      <jump line="87" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
+      <jump line="209" column="28" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
+      <jump line="229" column="41" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
+      <jump line="339" column="13" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
+      <jump line="349" column="15" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
+      <jump line="354" column="8" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
+      <jump line="79" column="13" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
+      <jump line="359" column="16" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
+      <jump line="22" column="26" filename="$USER_HOME$/Programming/Crypto/gobot/tests/test_updater.py" />
+      <jump line="92" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
+      <jump line="9" column="9" filename="$USER_HOME$/Programming/Crypto/gobot/jb/go_bot_go.py" />
+      <jump line="7" column="24" filename="$USER_HOME$/Programming/Crypto/gobot/jb/go_bot_go.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/grabber.py" />
+      <jump line="223" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/grabber.py" />
+      <jump line="266" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/grabber.py" />
+      <jump line="264" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/grabber.py" />
+      <jump line="130" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/grabber.py" />
+      <jump line="45" column="21" filename="$USER_HOME$/Programming/Crypto/gobot/backtesting/new_backtest.py" />
+      <jump line="23" column="16" filename="$USER_HOME$/Programming/Crypto/gobot/app_support/config.ini" />
+      <jump line="29" column="1" filename="$USER_HOME$/Programming/Crypto/gobot/app_support/config.ini" />
+      <jump line="30" column="6" filename="$USER_HOME$/Programming/Crypto/gobot/app_support/config.ini" />
+      <jump line="75" column="19" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/Updater.py" />
+      <jump line="45" column="10" filename="$USER_HOME$/Programming/Crypto/gobot/app_support/config.ini" />
+      <jump line="23" column="23" filename="$USER_HOME$/Programming/Crypto/gobot/tests/test_gobotDB.py" />
+      <jump line="25" column="46" filename="$USER_HOME$/Programming/Crypto/gobot/tests/test_gobotDB.py" />
+      <jump line="61" column="2" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/Updater.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/Updater.py" />
+      <jump line="83" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/Updater.py" />
+      <jump line="86" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/Updater.py" />
+      <jump line="196" column="89" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/Updater.py" />
+    </jumps>
+    <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="48" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="b" type="4">
+        <keys>
+          <key char="48" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="57" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="56" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="79" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="53" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="53" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="80" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="71" code="0" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="65535" code="70" mods="130" />
+          <key char="114" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="71" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="64" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="71" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="65535" code="82" mods="130" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="71" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="57" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="71" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="96" code="0" mods="0" />
+          <key char="96" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="c" type="4">
+        <text>dwj</text>
+      </register>
+      <register name="j" type="4">
+        <text />
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">Y3Vyc29yY2xhc3M9Y3Vyc29yY2xhc3MsIA==</text>
+      </register>
+      <register name="/" type="4">
+        <text>JB</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBmaWxlbGV2ZWw9Tm9uZQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="99" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+        </keys>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcG1zLmNvbm5lY3QoKippbmZvKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpbmZvWydjdXJzb3JjbGFzcyddID0gY3Vyc29yY2xhc3MK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgaW5mbyA9IGluZm9zW2JvdF0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAjIEVNQXMK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZGVmIGdldF90cChjb25uKToKICAgIHJldHVybiB0cAoK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Y29ubiA9IGRiLmNvbm5lY3Rpb24oKQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>JB</last-search>
+      <last-offset />
+      <last-pattern>JB</last-pattern>
+      <last-replace>path</last-replace>
+      <last-substitute>drive</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>apply</entry>
+        <entry>24</entry>
+        <entry>Exch</entry>
+        <entry>run_mode</entry>
+        <entry>effected</entry>
+        <entry>current</entry>
+        <entry>checking</entry>
+        <entry>Checking</entry>
+        <entry>current mode</entry>
+        <entry>Current</entry>
+        <entry>info</entry>
+        <entry>logging.info</entry>
+        <entry>bittrex</entry>
+        <entry>logging</entry>
+        <entry>Entered</entry>
+        <entry>Failed to get</entry>
+        <entry>tradingpairs</entry>
+        <entry>tp</entry>
+        <entry>active?</entry>
+        <entry>JB</entry>
+      </history-search>
+      <history-cmd>
+        <entry>set nu</entry>
+        <entry>s/'/&quot;/g</entry>
+        <entry>s/'/&quot;</entry>
+        <entry>%s/;//</entry>
+        <entry>set rnu</entry>
+        <entry>%s/&quot;&quot;&quot;,/&quot;&quot;&quot;</entry>
+        <entry>s/host/user/g</entry>
+        <entry>13,16s/#//</entry>
+        <entry>s/drive/path/g</entry>
+        <entry>,Gdd</entry>
+        <entry>1,1000d</entry>
+        <entry>47,358d</entry>
+        <entry>q</entry>
+        <entry encoding="base64">JzwsJz5x</entry>
+        <entry>%d</entry>
+        <entry>wq</entry>
+        <entry>75g</entry>
+        <entry>g75</entry>
+        <entry>75</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
