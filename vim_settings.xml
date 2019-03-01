@@ -139,12 +139,12 @@
         <mark key="." line="288" column="61" />
         <mark key="^" line="288" column="60" />
       </file>
-      <file name="$USER_HOME$/Programming/Crypto/gobot/tests/test_updater.py" timestamp="1550028731751">
-        <mark key="'" line="23" column="26" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="29" column="39" />
+      <file name="$USER_HOME$/Programming/Crypto/gobot/tests/test_updater.py" timestamp="1551481778876">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="23" column="34" />
+        <mark key="]" line="23" column="34" />
+        <mark key="." line="23" column="34" />
+        <mark key="^" line="26" column="50" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scratch/rugged_compare.py" timestamp="1534877134121">
         <mark key="'" line="38" column="8" />
@@ -269,11 +269,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1550027760226">
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="5" column="22" />
-        <mark key="." line="5" column="22" />
-        <mark key="^" line="5" column="22" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1551480384760">
+        <mark key="'" line="0" column="9" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="22" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/package/__init__.py" timestamp="1534302592301">
         <mark key="[" line="0" column="0" />
@@ -684,9 +685,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="12" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/grabber.py" />
-      <jump line="77" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/helpers.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/helpers.py" />
       <jump line="141" column="31" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/helpers.py" />
       <jump line="164" column="9" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/grabber.py" />
       <jump line="174" column="9" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/grabber.py" />
@@ -784,6 +782,9 @@
       <jump line="83" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/Updater.py" />
       <jump line="86" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/Updater.py" />
       <jump line="196" column="89" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/Updater.py" />
+      <jump line="5" column="9" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="26" column="3" filename="$USER_HOME$/Programming/Crypto/gobot/tests/test_updater.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/tests/test_updater.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -803,8 +804,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text># and get_tp()</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1694,16 +1695,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y3Vyc29yY2xhc3M9Y3Vyc29yY2xhc3MsIA==</text>
+        <text># and get_tp()</text>
       </register>
       <register name="/" type="4">
         <text>JB</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlbGV2ZWw9Tm9uZQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">Y29ubiwg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbm4uY2xvc2UoKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1715,28 +1716,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRwID0gbW9ja19kYi5xdWVyeSgnc2VsZWN0ICogZnJvbSB0cmFkaW5ncGFpcnMnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcG1zLmNvbm5lY3QoKippbmZvKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbmZvWydjdXJzb3JjbGFzcyddID0gY3Vyc29yY2xhc3MK</text>
+        <text encoding="base64">ICAgIHRwID0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgaW5mbyA9IGluZm9zW2JvdF0K</text>
+        <text encoding="base64">ICAgIHRwID0gdXAuZ2V0X3RwKGNvbm4pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIEVNQXMK</text>
+        <text encoding="base64">IyBmcm9tIGhlbHBlcnMgaW1wb3J0IGFkZF90b19wYXRoCiMgYWRkX3RvX3BhdGgoJ2Nyb250YWJzJykKIyBmcm9tIFVwZGF0ZXIgaW1wb3J0IGNoZWNrX3RyYWRpbmdwYWlycwojIGltcG9ydCBnb2JvdERCIGFzIGRiCiMgY29ubiA9IGRiLmNvbm5lY3Rpb24oJ2F1cmljJykKIyBjaGVja190cmFkaW5ncGFpcnMoY29ubikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIGdldF90cChjb25uKToKICAgIHJldHVybiB0cAoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29ubiA9IGRiLmNvbm5lY3Rpb24oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
