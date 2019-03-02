@@ -1,0 +1,11 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="quote_word">
+      <typing text-keycode="66:0;73:0;222:0">bi'</typing>
+      <shortuct text="ESCAPE" />
+      <typing text-keycode="69:1;73:0;222:0">Ei'</typing>
+      <shortuct text="ESCAPE" />
+      <typing text-keycode="87:1;76:0">Wl</typing>
+    </macro>
+  </component>
+</application>
