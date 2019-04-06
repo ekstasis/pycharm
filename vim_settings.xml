@@ -213,8 +213,8 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Volumes/Audio/Developer/open_source/freqtrade/setup.sh" timestamp="1554524112484">
-        <mark key="'" line="76" column="8" />
+      <file name="/Volumes/Audio/Developer/open_source/freqtrade/setup.sh" timestamp="1554524900675">
+        <mark key="'" line="253" column="44" />
       </file>
       <file name="/Python Console" timestamp="1550515597175">
         <mark key="[" line="0" column="0" />
@@ -688,8 +688,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="96" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/test_support/db_queries.py" />
-      <jump line="181" column="39" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/test_support/db_queries.py" />
       <jump line="265" column="86" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/test_support/db_queries.py" />
       <jump line="122" column="33" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/test_support/db_queries.py" />
       <jump line="140" column="11" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/helpers.py" />
@@ -788,6 +786,8 @@
       <jump line="74" column="77" filename="/Volumes/Audio/Developer/open_source/freqtrade/setup.sh" />
       <jump line="20" column="17" filename="/Volumes/Audio/Developer/open_source/freqtrade/setup.sh" />
       <jump line="76" column="8" filename="/Volumes/Audio/Developer/open_source/freqtrade/setup.sh" />
+      <jump line="240" column="16" filename="/Volumes/Audio/Developer/open_source/freqtrade/setup.sh" />
+      <jump line="253" column="44" filename="/Volumes/Audio/Developer/open_source/freqtrade/setup.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1701,7 +1701,7 @@
         <text># and get_tp()</text>
       </register>
       <register name="/" type="4">
-        <text>check</text>
+        <text>dev</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Y29ubiwg</text>
@@ -1747,9 +1747,9 @@
       </register>
     </registers>
     <search>
-      <last-search>check</last-search>
+      <last-search>dev</last-search>
       <last-offset />
-      <last-pattern>check</last-pattern>
+      <last-pattern>dev</last-pattern>
       <last-replace>path</last-replace>
       <last-substitute>drive</last-substitute>
       <last-dir>1</last-dir>
@@ -1757,7 +1757,6 @@
     </search>
     <history>
       <history-search>
-        <entry>effected</entry>
         <entry>current</entry>
         <entry>checking</entry>
         <entry>Checking</entry>
@@ -1777,6 +1776,7 @@
         <entry>usable</entry>
         <entry>brew</entry>
         <entry>check</entry>
+        <entry>dev</entry>
       </history-search>
       <history-cmd>
         <entry>set nu</entry>
