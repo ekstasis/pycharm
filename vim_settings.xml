@@ -213,11 +213,8 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/alchemy_scratch.py" timestamp="1544814265632">
-        <mark key="[" line="2" column="75" />
-        <mark key="]" line="2" column="75" />
-        <mark key="." line="2" column="75" />
-        <mark key="^" line="2" column="69" />
+      <file name="/Volumes/Audio/Developer/open_source/freqtrade/setup.sh" timestamp="1554524112484">
+        <mark key="'" line="76" column="8" />
       </file>
       <file name="/Python Console" timestamp="1550515597175">
         <mark key="[" line="0" column="0" />
@@ -243,12 +240,6 @@
         <mark key="." line="41" column="29" />
         <mark key="^" line="41" column="29" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/phantom mode psudocode.txt" timestamp="1531867265812">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Programming/Crypto/gobot/__init__.py" timestamp="1534303000167">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
@@ -268,13 +259,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1551480384760">
-        <mark key="'" line="0" column="9" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="22" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/package/__init__.py" timestamp="1534302592301">
         <mark key="[" line="0" column="0" />
@@ -333,6 +317,13 @@
         <mark key="." line="16" column="17" />
         <mark key="^" line="21" column="112" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1551480384760">
+        <mark key="'" line="0" column="9" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="22" />
+      </file>
       <file name="$USER_HOME$/Programming/Crypto/gobot/jb/work/new_system.py" timestamp="1543422816221">
         <mark key="'" line="16" column="14" />
         <mark key="[" line="25" column="43" />
@@ -358,12 +349,6 @@
         <mark key="." line="167" column="0" />
         <mark key="^" line="162" column="34" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch2.txt" timestamp="1531249463633">
-        <mark key="[" line="38" column="13" />
-        <mark key="]" line="38" column="15" />
-        <mark key="." line="38" column="15" />
-        <mark key="^" line="38" column="15" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/sibling/sib.py" timestamp="1534302749563">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
@@ -386,6 +371,18 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/alchemy_scratch.py" timestamp="1544814265632">
+        <mark key="[" line="2" column="75" />
+        <mark key="]" line="2" column="75" />
+        <mark key="." line="2" column="75" />
+        <mark key="^" line="2" column="69" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/phantom mode psudocode.txt" timestamp="1531867265812">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/PycharmProjects/scratch/compount.py" timestamp="1538518762537">
         <mark key="'" line="8" column="0" />
@@ -526,6 +523,12 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch2.txt" timestamp="1531249463633">
+        <mark key="[" line="38" column="13" />
+        <mark key="]" line="38" column="15" />
+        <mark key="." line="38" column="15" />
+        <mark key="^" line="38" column="15" />
       </file>
       <file name="$USER_HOME$/Programming/Crypto/gobot/tests/active_tests/test_phantom.py" timestamp="1544816467426">
         <mark key="[" line="114" column="0" />
@@ -685,13 +688,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="31" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/helpers.py" />
-      <jump line="164" column="9" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/grabber.py" />
-      <jump line="174" column="9" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/grabber.py" />
-      <jump line="187" column="13" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/grabber.py" />
-      <jump line="19" column="65" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/grabber.py" />
-      <jump line="165" column="32" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/grabber.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/test_support/mock_db.py" />
       <jump line="149" column="96" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/test_support/db_queries.py" />
       <jump line="181" column="39" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/test_support/db_queries.py" />
       <jump line="265" column="86" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/test_support/db_queries.py" />
@@ -785,6 +781,13 @@
       <jump line="5" column="9" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <jump line="26" column="3" filename="$USER_HOME$/Programming/Crypto/gobot/tests/test_updater.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/tests/test_updater.py" />
+      <jump line="85" column="45" filename="/Volumes/Audio/Developer/open_source/freqtrade/setup.sh" />
+      <jump line="123" column="17" filename="/Volumes/Audio/Developer/open_source/freqtrade/setup.sh" />
+      <jump line="281" column="6" filename="/Volumes/Audio/Developer/open_source/freqtrade/setup.sh" />
+      <jump line="69" column="28" filename="/Volumes/Audio/Developer/open_source/freqtrade/setup.sh" />
+      <jump line="74" column="77" filename="/Volumes/Audio/Developer/open_source/freqtrade/setup.sh" />
+      <jump line="20" column="17" filename="/Volumes/Audio/Developer/open_source/freqtrade/setup.sh" />
+      <jump line="76" column="8" filename="/Volumes/Audio/Developer/open_source/freqtrade/setup.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1698,7 +1701,7 @@
         <text># and get_tp()</text>
       </register>
       <register name="/" type="4">
-        <text>JB</text>
+        <text>check</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Y29ubiwg</text>
@@ -1744,9 +1747,9 @@
       </register>
     </registers>
     <search>
-      <last-search>JB</last-search>
+      <last-search>check</last-search>
       <last-offset />
-      <last-pattern>JB</last-pattern>
+      <last-pattern>check</last-pattern>
       <last-replace>path</last-replace>
       <last-substitute>drive</last-substitute>
       <last-dir>1</last-dir>
@@ -1754,10 +1757,6 @@
     </search>
     <history>
       <history-search>
-        <entry>apply</entry>
-        <entry>24</entry>
-        <entry>Exch</entry>
-        <entry>run_mode</entry>
         <entry>effected</entry>
         <entry>current</entry>
         <entry>checking</entry>
@@ -1774,6 +1773,10 @@
         <entry>tp</entry>
         <entry>active?</entry>
         <entry>JB</entry>
+        <entry>venv</entry>
+        <entry>usable</entry>
+        <entry>brew</entry>
+        <entry>check</entry>
       </history-search>
       <history-cmd>
         <entry>set nu</entry>
