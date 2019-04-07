@@ -513,6 +513,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
+      <file name="/Volumes/Audio/Developer/open_source/freqtrade/docs/telegram-usage.md" timestamp="1554601952736">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="4" />
+        <mark key="." line="25" column="4" />
+      </file>
       <file name="$USER_HOME$/Programming/Crypto/gobot/jb/compare_a1_a3.py" timestamp="1550352093860">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -801,8 +806,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5kZWJ1ZygnaGxwLnNlcnZlcl9pbmZvKCk6ICVzJywgc2VydmVyKQo=</text>
+      <register name="&quot;" type="4">
+        <text>f</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1692,7 +1697,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text># and get_tp()</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
