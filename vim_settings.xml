@@ -216,7 +216,7 @@
       <file name="/Volumes/Audio/Developer/open_source/freqtrade/setup.sh" timestamp="1554524900675">
         <mark key="'" line="253" column="44" />
       </file>
-      <file name="/Python Console" timestamp="1557869711033">
+      <file name="/Python Console" timestamp="1557871494662">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1550021651260">
@@ -259,6 +259,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="/Volumes/Audio/Developer/gobot/gobot/Updater.py" timestamp="1557871648333">
+        <mark key="[" line="284" column="0" />
+        <mark key="]" line="284" column="0" />
+        <mark key="." line="284" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/package/__init__.py" timestamp="1534302592301">
         <mark key="[" line="0" column="0" />
@@ -815,8 +820,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiBnZXRfdHAK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1715,7 +1720,7 @@
         <text encoding="base64">Y29ubiwg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5kZWJ1ZygnaGxwLnNlcnZlcl9pbmZvKCk6ICVzJywgc2VydmVyKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfdHAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1727,28 +1732,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">IiIiIFVOVVNFRC4gIERldGVybWluZXMgaWYgYWN0aXZlIHBhaXJzIGluIHRyYWRpbmdfcGFpcnMgbWF0Y2hlcyBkYXRhIGZyb20gY29pbmlneSB1cGRhdGUgIiIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpbmFsbHk6CiAgICAgICAgY29ubi5jbG9zZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5kZWJ1ZygnaGxwLnNlcnZlcl9pbmZvKCk6ICVzJywgc2VydmVyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbm4uY2xvc2UoKQo=</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgTWFpbiBsb29wOiAgY29udGFpbnMgaW5uZXIgbG9vcCBvdmVyIG5ldyBjYW5kbGVzIHRvIGhhbmQgdG8gRGVjaWRlcgo=</text>
+        <text encoding="base64">ICAgIGZpbmFsbHk6CiAgICAgICAgY29ubi5jbG9zZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbm4uY2xvc2UoKQo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICMgTWFpbiBsb29wOiAgY29udGFpbnMgaW5uZXIgbG9vcCBvdmVyIG5ldyBjYW5kbGVzIHRvIGhhbmQgdG8gRGVjaWRlcgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRwID0gbW9ja19kYi5xdWVyeSgnc2VsZWN0ICogZnJvbSB0cmFkaW5ncGFpcnMnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
+        <text encoding="base64">ICAgIGNvbm4uY2xvc2UoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
