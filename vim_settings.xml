@@ -334,12 +334,12 @@
         <mark key="." line="16" column="17" />
         <mark key="^" line="21" column="112" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1551480384760">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1557953490569">
         <mark key="'" line="0" column="9" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="22" />
+        <mark key="[" line="7" column="94" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/Crypto/gobot/jb/work/new_system.py" timestamp="1543422816221">
         <mark key="'" line="16" column="14" />
@@ -659,6 +659,12 @@
         <mark key="^" line="73" column="46" />
         <mark key="." line="74" column="33" />
       </file>
+      <file name="/Volumes/Audio/Developer/gobot/gobot/classes/client.py" timestamp="1557953039352">
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="12" column="7" />
+        <mark key="^" line="13" column="3" />
+        <mark key="." line="12" column="7" />
+      </file>
       <file name="/Volumes/Audio/Programming/Crypto/gobot/gobot/gdax_functions.py" timestamp="1525040983605">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="67" />
@@ -837,7 +843,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>b64</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1727,7 +1733,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>b64</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
