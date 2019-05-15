@@ -18,6 +18,12 @@
         <mark key="^" line="20" column="27" />
         <mark key="." line="20" column="27" />
       </file>
+      <file name="/Volumes/Audio/Developer/gobot/tests/test_helpers.py" timestamp="1557946787638">
+        <mark key="[" line="76" column="28" />
+        <mark key="]" line="76" column="36" />
+        <mark key="." line="76" column="36" />
+        <mark key="^" line="76" column="36" />
+      </file>
       <file name="$USER_HOME$/Programming/Crypto/gobot/testing/__init__.py" timestamp="1534361619131">
         <mark key="[" line="0" column="40" />
         <mark key="]" line="0" column="40" />
@@ -126,11 +132,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Volumes/Audio/Developer/gobot/app_support/config.ini" timestamp="1557944323000">
-        <mark key="[" line="30" column="16" />
-        <mark key="]" line="31" column="10" />
-        <mark key="." line="31" column="10" />
-        <mark key="^" line="31" column="10" />
+      <file name="/Volumes/Audio/Developer/gobot/app_support/config.ini" timestamp="1557946329436">
+        <mark key="[" line="30" column="6" />
+        <mark key="]" line="30" column="14" />
+        <mark key="." line="30" column="14" />
+        <mark key="^" line="30" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/package/foo1.py" timestamp="1534302784395">
         <mark key="[" line="0" column="5" />
@@ -222,7 +228,7 @@
       <file name="/Volumes/Audio/Developer/open_source/freqtrade/setup.sh" timestamp="1554524900675">
         <mark key="'" line="253" column="44" />
       </file>
-      <file name="/Python Console" timestamp="1557944407251">
+      <file name="/Python Console" timestamp="1557946514020">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1550021651260">
@@ -834,7 +840,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.local</text>
+        <text>JB-Mac-Pro</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1724,7 +1730,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>.local</text>
+        <text>JB-Mac-Pro</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
