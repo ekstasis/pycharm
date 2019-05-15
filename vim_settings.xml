@@ -155,7 +155,7 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1557958680606">
+      <file name="/Python Console" timestamp="1557962113062">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1550021651260">
@@ -201,6 +201,13 @@
         <mark key="]" line="29" column="11" />
         <mark key="^" line="29" column="11" />
         <mark key="." line="29" column="11" />
+      </file>
+      <file name="/Volumes/Audio/Developer/gobot/tests/test_classes.py" timestamp="1557962716011">
+        <mark key="'" line="6" column="12" />
+        <mark key="[" line="53" column="48" />
+        <mark key="]" line="53" column="48" />
+        <mark key="^" line="7" column="11" />
+        <mark key="." line="53" column="48" />
       </file>
       <file name="/Volumes/Audio/Developer/gobot/jb/exchange_api_stuff/gdax_functions.py" timestamp="1557958368485" />
       <file name="$USER_HOME$/Programming/Crypto/gobot/jb/sqlalchemy.py" timestamp="1546097966578">
@@ -401,7 +408,7 @@
         <mark key="]" line="25" column="4" />
         <mark key="." line="25" column="4" />
       </file>
-      <file name="/Volumes/Audio/Developer/gobot/gobot/helpers.py" timestamp="1557951176427">
+      <file name="/Volumes/Audio/Developer/gobot/gobot/helpers.py" timestamp="1557962075297">
         <mark key="[" line="34" column="18" />
       </file>
       <file name="$USER_HOME$/Programming/Crypto/gobot/jb/compare_a1_a3.py" timestamp="1550352093860">
@@ -506,11 +513,12 @@
         <mark key="^" line="73" column="46" />
         <mark key="." line="74" column="33" />
       </file>
-      <file name="/Volumes/Audio/Developer/gobot/gobot/classes/client.py" timestamp="1557961337439">
-        <mark key="[" line="9" column="39" />
-        <mark key="]" line="9" column="36" />
-        <mark key="^" line="9" column="36" />
-        <mark key="." line="9" column="36" />
+      <file name="/Volumes/Audio/Developer/gobot/gobot/classes/client.py" timestamp="1557962534099">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="12" column="33" />
+        <mark key="." line="12" column="33" />
+        <mark key="^" line="12" column="33" />
       </file>
       <file name="/Volumes/Audio/Programming/Crypto/gobot/gobot/gdax_functions.py" timestamp="1525040983605">
         <mark key="[" line="37" column="0" />
@@ -556,13 +564,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="265" column="86" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/test_support/db_queries.py" />
-      <jump line="122" column="33" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/test_support/db_queries.py" />
-      <jump line="140" column="11" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/helpers.py" />
-      <jump line="142" column="31" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/helpers.py" />
-      <jump line="110" column="22" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/helpers.py" />
-      <jump line="22" column="12" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/test_support/mock_db.py" />
-      <jump line="30" column="106" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/test_support/mock_db.py" />
       <jump line="121" column="5" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/phantom.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/phantom.py" />
       <jump line="124" column="35" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/phantom.py" />
@@ -656,6 +657,13 @@
       <jump line="76" column="8" filename="/Volumes/Audio/Developer/open_source/freqtrade/setup.sh" />
       <jump line="240" column="16" filename="/Volumes/Audio/Developer/open_source/freqtrade/setup.sh" />
       <jump line="253" column="44" filename="/Volumes/Audio/Developer/open_source/freqtrade/setup.sh" />
+      <jump line="12" column="25" filename="/Volumes/Audio/Developer/gobot/gobot/classes/client.py" />
+      <jump line="0" column="0" filename="/Volumes/Audio/Developer/gobot/gobot/classes/client.py" />
+      <jump line="45" column="12" filename="/Volumes/Audio/Developer/gobot/tests/test_classes.py" />
+      <jump line="46" column="23" filename="/Volumes/Audio/Developer/gobot/tests/test_classes.py" />
+      <jump line="52" column="15" filename="/Volumes/Audio/Developer/gobot/tests/test_classes.py" />
+      <jump line="7" column="11" filename="/Volumes/Audio/Developer/gobot/tests/test_classes.py" />
+      <jump line="6" column="12" filename="/Volumes/Audio/Developer/gobot/tests/test_classes.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -675,8 +683,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNoX2FjY291bnRzID0gW10K</text>
+      <register name="&quot;" type="4">
+        <text>cbpro.authenticated_client))</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1566,7 +1574,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>, key, secret, phrase, url</text>
+        <text>cbpro.authenticated_client))</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
@@ -1574,8 +1582,12 @@
       <register name="0" type="2">
         <text encoding="base64">IyBjbGllbnQgPSBjYnByby5BdXRoZW50aWNhdGVkQ2xpZW50KGtleT1rZXksIGI2NHNlY3JldD1zZWNyZXQsIHBhc3NwaHJhc2U9cGFzc3BocmFzZSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNoX2FjY291bnRzID0gW10K</text>
+      <register name="1" type="4">
+        <text>class Account:
+    def __init__(self, exch: Exch):
+        self.exchange = exch
+
+class Exchange:</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1587,28 +1599,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsaWVudC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcl9jbGFzcy5fX2luaXRfXyhrZXk9a2V5LCBzZWNyZXQ9c2VjcmV0LCBwYXNzcGhyYXNlPXBocmFzZSwgYXBpX3VybD11cmwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcl9jbGFzcyA6IGNicHJvLkF1dGhlbnRpY2F0ZWRDbGllbnQgPSBzdXBlcigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xpZW50ID0gY2Jwcm8uQXV0aGVudGljYXRlZENsaWVudChrZXk9a2V5LCBiNjRzZWNyZXQ9c2VjcmV0LCBwYXNzcGhyYXNlPXBhc3NwaHJhc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5leGNoYW5nZXMuYXBwZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjYXNoX2FjY291bnRzID0gW10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2FuZGJveF91cmwgPSAnaHR0cHM6Ly9hcGktcHVibGljLnNhbmRib3guZ2RheC5jb20nCnNhbmRfYXV0aCA9IEFQSV9BdXRoKCdkM2JkM2M0MzBmMWZmZGRjMmU4ODYxMWMyNDlkNmExNCcsICdlM3I0eDFpdTVudCcsIAogICAgICAgICAgICAgICAgICAgICAnaTdDOEtrZzhGVnQ2cVJFNGhHTVB1SHdMV1N6T1V0Q1JQNFRoVHlwbXRpVzFaOVBsMG0rZ3UxeTRaRXAvZjhaS2dyT2NjZWRWQW5lMy9CVE1tV1c5cEE9PScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2FuZGJveF91cmwgPSAnaHR0cHM6Ly9hcGktcHVibGljLnNhbmRib3guZ2RheC5jb20nCnNhbmRfYXV0aCA9IEFQSV9BdXRoKCdkM2JkM2M0MzBmMWZmZGRjMmU4ODYxMWMyNDlkNmExNCcsICdlM3I0eDFpdTVudCcsIAo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcl9jbGFzcy5fX2luaXRfXyhrZXk9a2V5LCBzZWNyZXQ9c2VjcmV0LCBwYXNzcGhyYXNlPXBocmFzZSwgYXBpX3VybD11cmwpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xpZW50LnNlc3Npb24uCg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcl9jbGFzcyA6IGNicHJvLkF1dGhlbnRpY2F0ZWRDbGllbnQgPSBzdXBlcigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
