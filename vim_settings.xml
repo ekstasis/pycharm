@@ -18,11 +18,11 @@
         <mark key="^" line="20" column="27" />
         <mark key="." line="20" column="27" />
       </file>
-      <file name="/Volumes/Audio/Developer/gobot/tests/test_helpers.py" timestamp="1557946787638">
-        <mark key="[" line="76" column="28" />
-        <mark key="]" line="76" column="36" />
-        <mark key="." line="76" column="36" />
-        <mark key="^" line="76" column="36" />
+      <file name="/Volumes/Audio/Developer/gobot/tests/test_helpers.py" timestamp="1557950451335">
+        <mark key="[" line="63" column="38" />
+        <mark key="]" line="64" column="34" />
+        <mark key="." line="64" column="34" />
+        <mark key="^" line="64" column="34" />
       </file>
       <file name="$USER_HOME$/Programming/Crypto/gobot/testing/__init__.py" timestamp="1534361619131">
         <mark key="[" line="0" column="40" />
@@ -132,7 +132,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Volumes/Audio/Developer/gobot/app_support/config.ini" timestamp="1557946329436">
+      <file name="/Volumes/Audio/Developer/gobot/app_support/config.ini" timestamp="1557950060052">
         <mark key="[" line="30" column="6" />
         <mark key="]" line="30" column="14" />
         <mark key="." line="30" column="14" />
@@ -228,7 +228,7 @@
       <file name="/Volumes/Audio/Developer/open_source/freqtrade/setup.sh" timestamp="1554524900675">
         <mark key="'" line="253" column="44" />
       </file>
-      <file name="/Python Console" timestamp="1557946514020">
+      <file name="/Python Console" timestamp="1557950418580">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1550021651260">
@@ -549,11 +549,6 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Volumes/Audio/Developer/gobot/tests/test_gobotDB.py" timestamp="1557948458400">
-        <mark key="[" line="7" column="41" />
-        <mark key="]" line="7" column="41" />
-        <mark key="." line="7" column="41" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch2.txt" timestamp="1531249463633">
         <mark key="[" line="38" column="13" />
         <mark key="]" line="38" column="15" />
@@ -835,8 +830,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGhvc3QgPSBobHAuaG9zdF9uYW1lKCkKICAgIGhvc3RfY29uZmlnID0gaGxwLmdldF9jb25maWcoaG9zdCkK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1726,16 +1721,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Y29ubiwg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbmZpZzIgPSBobHAuZ2V0X2NvbmZpZyhob3N0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UmVzdHJ1Y3R1cmluZwo=</text>
+        <text encoding="base64">ICAgIGhvc3QgPSBobHAuaG9zdF9uYW1lKCkKICAgIGhvc3RfY29uZmlnID0gaGxwLmdldF9jb25maWcoaG9zdCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1747,28 +1742,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfdHAK</text>
+        <text encoding="base64">ICAgICMgYXNzZXJ0IGNvbmZpZyA9PSBjb25maWcyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IiIiIFVOVVNFRC4gIERldGVybWluZXMgaWYgYWN0aXZlIHBhaXJzIGluIHRyYWRpbmdfcGFpcnMgbWF0Y2hlcyBkYXRhIGZyb20gY29pbmlneSB1cGRhdGUgIiIiCg==</text>
+        <text encoding="base64">ICAgIGNvbmZpZzIgPSBobHAuZ2V0X2NvbmZpZyhob3N0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5kZWJ1ZygnaGxwLnNlcnZlcl9pbmZvKCk6ICVzJywgc2VydmVyKQo=</text>
+        <text encoding="base64">UmVzdHJ1Y3R1cmluZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfdHAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZpbmFsbHk6CiAgICAgICAgY29ubi5jbG9zZSgpCg==</text>
+        <text encoding="base64">IiIiIFVOVVNFRC4gIERldGVybWluZXMgaWYgYWN0aXZlIHBhaXJzIGluIHRyYWRpbmdfcGFpcnMgbWF0Y2hlcyBkYXRhIGZyb20gY29pbmlneSB1cGRhdGUgIiIiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbm4uY2xvc2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5kZWJ1ZygnaGxwLnNlcnZlcl9pbmZvKCk6ICVzJywgc2VydmVyKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgTWFpbiBsb29wOiAgY29udGFpbnMgaW5uZXIgbG9vcCBvdmVyIG5ldyBjYW5kbGVzIHRvIGhhbmQgdG8gRGVjaWRlcgo=</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpbmFsbHk6CiAgICAgICAgY29ubi5jbG9zZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
