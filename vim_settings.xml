@@ -30,20 +30,6 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
       </file>
-      <file name="$USER_HOME$/Programming/Crypto/gobot/testing/test_db_queries.py" timestamp="1535400181133">
-        <mark key="'" line="182" column="17" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="55" />
-        <mark key="." line="0" column="55" />
-        <mark key="^" line="0" column="55" />
-      </file>
-      <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/helpers.py" timestamp="1551483238845">
-        <mark key="'" line="109" column="22" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="185" column="29" />
-      </file>
       <file name="/'backtest_1'" timestamp="1527005543352">
         <mark key="[" line="0" column="0" />
       </file>
@@ -80,52 +66,17 @@
       <file name="$USER_HOME$/PycharmProjects/untitled/ff/foo2.py" timestamp="1534302099091">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/Crypto/gobot/jb/go_bot_go.py" timestamp="1550353610607">
-        <mark key="'" line="8" column="24" />
-        <mark key="[" line="1" column="3" />
-        <mark key="]" line="2" column="33" />
-        <mark key="^" line="2" column="33" />
-        <mark key="." line="2" column="33" />
-      </file>
-      <file name="$USER_HOME$/Programming/Crypto/gobot/tests/test_coinigy_data_api.py" timestamp="1550025231141">
-        <mark key="'" line="24" column="51" />
-        <mark key="[" line="16" column="48" />
-        <mark key="]" line="10" column="31" />
-        <mark key="." line="10" column="31" />
-        <mark key="^" line="10" column="31" />
-      </file>
       <file name="/Volumes/Audio/Programming/Crypto/gobot/jb/work/phantom-all.txt" timestamp="1532458421099">
         <mark key="[" line="26" column="70" />
         <mark key="]" line="31" column="0" />
         <mark key="^" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/Crypto/gobot/crontabs/coinigy_data_api.py" timestamp="1550353237504">
-        <mark key="'" line="47" column="31" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="44" />
-        <mark key="." line="47" column="31" />
-        <mark key="^" line="47" column="31" />
-      </file>
       <file name="/Volumes/Audio/Programming/Crypto/gobot/gobot/analysis/plotly_plotter.py" timestamp="1528405307988">
         <mark key="[" line="14" column="21" />
         <mark key="]" line="14" column="21" />
         <mark key="^" line="19" column="89" />
         <mark key="." line="14" column="21" />
-      </file>
-      <file name="$USER_HOME$/Programming/Crypto/gobot/testing/test_db.py" timestamp="1535400101997">
-        <mark key="'" line="3" column="21" />
-        <mark key="[" line="19" column="28" />
-        <mark key="]" line="14" column="6" />
-        <mark key="^" line="14" column="6" />
-        <mark key="." line="14" column="6" />
-      </file>
-      <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/grabber.py" timestamp="1550354900776">
-        <mark key="'" line="130" column="0" />
-        <mark key="[" line="323" column="0" />
-        <mark key="]" line="323" column="0" />
-        <mark key="." line="323" column="0" />
-        <mark key="^" line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/Crypto/gobot/backtesting/new_backtest_v2.py" timestamp="1550355076963">
         <mark key="[" line="23" column="0" />
@@ -143,27 +94,6 @@
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
         <mark key="^" line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/Programming/Crypto/gobot/tests/db_queries.py" timestamp="1535551881894">
-        <mark key="'" line="182" column="197" />
-        <mark key="[" line="288" column="61" />
-        <mark key="]" line="288" column="61" />
-        <mark key="." line="288" column="61" />
-        <mark key="^" line="288" column="60" />
-      </file>
-      <file name="$USER_HOME$/Programming/Crypto/gobot/tests/test_updater.py" timestamp="1551481778876">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="23" column="34" />
-        <mark key="]" line="23" column="34" />
-        <mark key="." line="23" column="34" />
-        <mark key="^" line="26" column="50" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/scratch/rugged_compare.py" timestamp="1534877134121">
-        <mark key="'" line="38" column="8" />
-        <mark key="[" line="24" column="21" />
-        <mark key="]" line="24" column="24" />
-        <mark key="^" line="24" column="24" />
-        <mark key="." line="24" column="24" />
       </file>
       <file name="/'devbot'" timestamp="1535550532895">
         <mark key="[" line="0" column="0" />
@@ -258,20 +188,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/phantom/tests/testing123.py" timestamp="1535402375255">
-        <mark key="'" line="1" column="29" />
-        <mark key="[" line="1" column="30" />
-        <mark key="]" line="1" column="30" />
-        <mark key="." line="1" column="30" />
-        <mark key="^" line="28" column="35" />
-      </file>
-      <file name="$USER_HOME$/Programming/Crypto/gobot/app_support/prime_ema.py" timestamp="1549923648913">
-        <mark key="'" line="26" column="43" />
-        <mark key="[" line="4" column="23" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="/Volumes/Audio/Developer/gobot/gobot/Updater.py" timestamp="1557871648333">
         <mark key="[" line="284" column="0" />
         <mark key="]" line="284" column="0" />
@@ -289,13 +205,7 @@
         <mark key="^" line="29" column="11" />
         <mark key="." line="29" column="11" />
       </file>
-      <file name="$USER_HOME$/Programming/Crypto/gobot/tests/test_phantom.py" timestamp="1549856688855">
-        <mark key="'" line="83" column="69" />
-        <mark key="[" line="23" column="27" />
-        <mark key="]" line="24" column="19" />
-        <mark key="^" line="24" column="19" />
-        <mark key="." line="24" column="19" />
-      </file>
+      <file name="/Volumes/Audio/Developer/gobot/jb/exchange_api_stuff/gdax_functions.py" timestamp="1557958368485" />
       <file name="$USER_HOME$/Programming/Crypto/gobot/jb/sqlalchemy.py" timestamp="1546097966578">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="35" />
@@ -314,39 +224,18 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="4" column="42" />
       </file>
-      <file name="$USER_HOME$/Programming/Crypto/gobot/tests/test_gobotDB.py" timestamp="1550364285661">
-        <mark key="'" line="26" column="46" />
-        <mark key="[" line="25" column="31" />
-        <mark key="]" line="25" column="32" />
-        <mark key="." line="25" column="32" />
-        <mark key="^" line="25" column="20" />
-      </file>
-      <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/phantom/phantom.py" timestamp="1544820907006">
-        <mark key="'" line="105" column="54" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
-        <mark key="^" line="104" column="98" />
-      </file>
       <file name="/Volumes/Audio/Programming/Crypto/gobot/testing/helpers_test.py" timestamp="1525292155532">
         <mark key="[" line="16" column="16" />
         <mark key="]" line="16" column="17" />
         <mark key="." line="16" column="17" />
         <mark key="^" line="21" column="112" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1557953490569">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1557958554229">
         <mark key="'" line="0" column="9" />
-        <mark key="[" line="7" column="94" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programming/Crypto/gobot/jb/work/new_system.py" timestamp="1543422816221">
-        <mark key="'" line="16" column="14" />
-        <mark key="[" line="25" column="43" />
-        <mark key="]" line="25" column="74" />
-        <mark key="." line="25" column="74" />
-        <mark key="^" line="25" column="74" />
+        <mark key="[" line="26" column="67" />
+        <mark key="]" line="26" column="35" />
+        <mark key="." line="26" column="35" />
+        <mark key="^" line="26" column="35" />
       </file>
       <file name="/Volumes/Audio/Programming/Crypto/gobot/testing/analysis_utests.py" timestamp="1525735230815">
         <mark key="[" line="13" column="14" />
@@ -358,13 +247,6 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/Updater.py" timestamp="1551483267924">
-        <mark key="'" line="193" column="89" />
-        <mark key="[" line="167" column="0" />
-        <mark key="]" line="167" column="0" />
-        <mark key="." line="167" column="0" />
-        <mark key="^" line="162" column="34" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/sibling/sib.py" timestamp="1534302749563">
         <mark key="[" line="0" column="10" />
@@ -401,13 +283,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/PycharmProjects/scratch/compount.py" timestamp="1538518762537">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="20" column="18" />
-        <mark key="]" line="20" column="20" />
-        <mark key="." line="20" column="20" />
-        <mark key="^" line="20" column="20" />
-      </file>
       <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/reset_db.py" timestamp="1544820943324">
         <mark key="[" line="27" column="97" />
         <mark key="]" line="27" column="97" />
@@ -425,13 +300,6 @@
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
-      </file>
-      <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/Decider.py" timestamp="1544704384323">
-        <mark key="'" line="45" column="57" />
-        <mark key="[" line="173" column="38" />
-        <mark key="]" line="173" column="97" />
-        <mark key="." line="173" column="97" />
-        <mark key="^" line="173" column="97" />
       </file>
       <file name="/Volumes/Audio/Programming/Crypto/gobot/gobot/backtesting/Result.py" timestamp="1527707459332">
         <mark key="[" line="155" column="38" />
@@ -453,13 +321,6 @@
         <mark key="]" line="8" column="26" />
         <mark key="." line="8" column="26" />
         <mark key="^" line="8" column="26" />
-      </file>
-      <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/exchanges.py" timestamp="1544712333794">
-        <mark key="'" line="62" column="4" />
-        <mark key="[" line="31" column="12" />
-        <mark key="]" line="31" column="16" />
-        <mark key="." line="31" column="16" />
-        <mark key="^" line="31" column="16" />
       </file>
       <file name="/Volumes/Audio/Programming/Crypto/gobot/gobot/analysis/sale.py" timestamp="1527101865386">
         <mark key="[" line="80" column="56" />
@@ -487,13 +348,6 @@
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
-      </file>
-      <file name="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" timestamp="1550351203427">
-        <mark key="'" line="92" column="0" />
-        <mark key="[" line="231" column="24" />
-        <mark key="]" line="232" column="7" />
-        <mark key="." line="232" column="7" />
-        <mark key="^" line="232" column="7" />
       </file>
       <file name="/Volumes/Audio/Programming/Crypto/gobot/gobot/analysis/plot_gains.py" timestamp="1527968576120">
         <mark key="[" line="288" column="0" />
@@ -557,6 +411,9 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="/gdax_functions" timestamp="1557958270520">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch2.txt" timestamp="1531249463633">
         <mark key="[" line="38" column="13" />
@@ -640,13 +497,6 @@
         <mark key="^" line="12" column="20" />
         <mark key="." line="11" column="32" />
       </file>
-      <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/phantom.py" timestamp="1549922289641">
-        <mark key="'" line="111" column="32" />
-        <mark key="[" line="30" column="55" />
-        <mark key="]" line="30" column="55" />
-        <mark key="^" line="30" column="55" />
-        <mark key="." line="30" column="55" />
-      </file>
       <file name="/Volumes/Audio/Programming/Crypto/gobot/gobot/API" timestamp="1522205320322">
         <mark key="[" line="2" column="11" />
         <mark key="]" line="2" column="12" />
@@ -706,20 +556,6 @@
         <mark key="]" line="29" column="42" />
         <mark key="^" line="29" column="42" />
         <mark key="." line="29" column="42" />
-      </file>
-      <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/analysis/utilities.py" timestamp="1548719370278">
-        <mark key="'" line="56" column="24" />
-        <mark key="[" line="177" column="34" />
-        <mark key="]" line="232" column="0" />
-        <mark key="." line="232" column="0" />
-        <mark key="^" line="252" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programming/Crypto/gobot/app_support/config.ini" timestamp="1550362922462">
-        <mark key="'" line="45" column="10" />
-        <mark key="[" line="45" column="11" />
-        <mark key="]" line="45" column="11" />
-        <mark key="." line="45" column="11" />
-        <mark key="^" line="42" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -843,7 +679,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>b64</text>
+        <text encoding="base64">aW1wb3J0IA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1733,7 +1569,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>b64</text>
+        <text encoding="base64">aW1wb3J0IA==</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
