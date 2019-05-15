@@ -9,6 +9,7 @@
       <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/deleteme.py" timestamp="1543427502724">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/Audio/Developer/gobot/gobot/gobotDB.py" timestamp="1557942242696" />
       <file name="/a.dummy" timestamp="1550353796437">
         <mark key="[" line="0" column="0" />
       </file>
@@ -126,6 +127,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="/Volumes/Audio/Developer/gobot/app_support/config.ini" timestamp="1557942549942">
+        <mark key="[" line="29" column="11" />
+        <mark key="]" line="29" column="11" />
+        <mark key="." line="29" column="11" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/package/foo1.py" timestamp="1534302784395">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="5" />
@@ -216,7 +222,7 @@
       <file name="/Volumes/Audio/Developer/open_source/freqtrade/setup.sh" timestamp="1554524900675">
         <mark key="'" line="253" column="44" />
       </file>
-      <file name="/Python Console" timestamp="1557871494662">
+      <file name="/Python Console" timestamp="1557942419053">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1550021651260">
@@ -532,11 +538,13 @@
         <mark key="]" line="25" column="4" />
         <mark key="." line="25" column="4" />
       </file>
+      <file name="/Volumes/Audio/Developer/gobot/gobot/helpers.py" timestamp="1557942405201" />
       <file name="$USER_HOME$/Programming/Crypto/gobot/jb/compare_a1_a3.py" timestamp="1550352093860">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="/Volumes/Audio/Developer/gobot/tests/test_gobotDB.py" timestamp="1557942119027" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch2.txt" timestamp="1531249463633">
         <mark key="[" line="38" column="13" />
         <mark key="]" line="38" column="15" />
@@ -820,8 +828,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfdHAK</text>
+      <register name="&quot;" type="4">
+        <text>.local</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1711,7 +1719,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.local</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
