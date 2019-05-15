@@ -227,11 +227,11 @@
         <mark key="." line="16" column="17" />
         <mark key="^" line="21" column="112" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1557959534193">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1557959593629">
         <mark key="'" line="0" column="9" />
-        <mark key="[" line="25" column="87" />
-        <mark key="]" line="26" column="39" />
-        <mark key="." line="26" column="39" />
+        <mark key="[" line="28" column="11" />
+        <mark key="]" line="28" column="11" />
+        <mark key="." line="28" column="11" />
         <mark key="^" line="26" column="39" />
       </file>
       <file name="/Volumes/Audio/Programming/Crypto/gobot/testing/analysis_utests.py" timestamp="1525735230815">
@@ -506,11 +506,11 @@
         <mark key="^" line="73" column="46" />
         <mark key="." line="74" column="33" />
       </file>
-      <file name="/Volumes/Audio/Developer/gobot/gobot/classes/client.py" timestamp="1557953039352">
-        <mark key="[" line="12" column="6" />
-        <mark key="]" line="12" column="7" />
-        <mark key="^" line="13" column="3" />
-        <mark key="." line="12" column="7" />
+      <file name="/Volumes/Audio/Developer/gobot/gobot/classes/client.py" timestamp="1557960221248">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="4" column="12" />
+        <mark key="^" line="4" column="40" />
+        <mark key="." line="4" column="12" />
       </file>
       <file name="/Volumes/Audio/Programming/Crypto/gobot/gobot/gdax_functions.py" timestamp="1525040983605">
         <mark key="[" line="37" column="0" />
@@ -676,7 +676,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>key</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1566,7 +1566,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>key</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
