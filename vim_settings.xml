@@ -202,12 +202,12 @@
         <mark key="^" line="29" column="11" />
         <mark key="." line="29" column="11" />
       </file>
-      <file name="/Volumes/Audio/Developer/gobot/tests/test_classes.py" timestamp="1557964276339">
-        <mark key="'" line="6" column="12" />
-        <mark key="[" line="58" column="23" />
-        <mark key="]" line="58" column="30" />
-        <mark key="^" line="58" column="30" />
-        <mark key="." line="58" column="30" />
+      <file name="/Volumes/Audio/Developer/gobot/tests/test_classes.py" timestamp="1557964738229">
+        <mark key="'" line="52" column="13" />
+        <mark key="[" line="69" column="14" />
+        <mark key="]" line="67" column="3" />
+        <mark key="^" line="67" column="3" />
+        <mark key="." line="67" column="3" />
       </file>
       <file name="/Volumes/Audio/Developer/gobot/jb/exchange_api_stuff/gdax_functions.py" timestamp="1557958368485" />
       <file name="$USER_HOME$/Programming/Crypto/gobot/jb/sqlalchemy.py" timestamp="1546097966578">
@@ -234,7 +234,7 @@
         <mark key="." line="16" column="17" />
         <mark key="^" line="21" column="112" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1557960845280">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1557965164442">
         <mark key="'" line="0" column="9" />
         <mark key="[" line="28" column="11" />
         <mark key="]" line="28" column="11" />
@@ -513,12 +513,12 @@
         <mark key="^" line="73" column="46" />
         <mark key="." line="74" column="33" />
       </file>
-      <file name="/Volumes/Audio/Developer/gobot/gobot/classes/client.py" timestamp="1557964265739">
+      <file name="/Volumes/Audio/Developer/gobot/gobot/classes/client.py" timestamp="1557965172793">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="28" />
-        <mark key="]" line="12" column="12" />
-        <mark key="." line="12" column="12" />
-        <mark key="^" line="12" column="12" />
+        <mark key="[" line="24" column="44" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="/Volumes/Audio/Programming/Crypto/gobot/gobot/gdax_functions.py" timestamp="1525040983605">
         <mark key="[" line="37" column="0" />
@@ -661,9 +661,9 @@
       <jump line="0" column="0" filename="/Volumes/Audio/Developer/gobot/gobot/classes/client.py" />
       <jump line="45" column="12" filename="/Volumes/Audio/Developer/gobot/tests/test_classes.py" />
       <jump line="46" column="23" filename="/Volumes/Audio/Developer/gobot/tests/test_classes.py" />
-      <jump line="52" column="15" filename="/Volumes/Audio/Developer/gobot/tests/test_classes.py" />
       <jump line="7" column="11" filename="/Volumes/Audio/Developer/gobot/tests/test_classes.py" />
       <jump line="6" column="12" filename="/Volumes/Audio/Developer/gobot/tests/test_classes.py" />
+      <jump line="52" column="13" filename="/Volumes/Audio/Developer/gobot/tests/test_classes.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -684,7 +684,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>RuntimeError</text>
+        <text encoding="base64">bm90IA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1574,16 +1574,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>RuntimeError</text>
+        <text encoding="base64">bm90IA==</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBjbGllbnQgPSBjYnByby5BdXRoZW50aWNhdGVkQ2xpZW50KGtleT1rZXksIGI2NHNlY3JldD1zZWNyZXQsIHBhc3NwaHJhc2U9cGFzc3BocmFzZSkK</text>
+        <text encoding="base64">ICAgIGNsaWVudCA9IENsaWVudCgpCiAgICBidGMgPSBQYWlyLmJ0YygpCiAgICBjbGllbnQuYWRkX3BhaXIoYnRjKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgYXNzZXJ0KGlzaW5zdGFuY2UoY2xpZW50LmV4Y2hhbmdlc1snZ2RheCddLCBjYnByby5hdXRoZW50aWNhdGVkX2NsaWVudCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1595,32 +1595,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoY2xpZW50LmV4Y2hhbmdlcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNsaWVudC5hZGRfcGFpcihidGMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYWlyLmV4Y2hfY29kZQo=</text>
+        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHBhaXIgPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBhaXJzLmFwcGVuZChwYWlyKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBwYWlyIG5vdCBpbiBzZWxmLnBhaXJzOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgYXNzZXJ0KGlzaW5zdGFuY2UoY2xpZW50LmV4Y2hhbmdlc1snZ2RheCddLCBjYnByby5hdXRoZW50aWNhdGVkX2NsaWVudCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBhaXJzLmFwcGVuZChwYWlyKQo=</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoY2xpZW50LmV4Y2hhbmdlcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIFdlIGhhdmUgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text>class Account:
-    def __init__(self, exch: Exch):
-        self.exchange = exch
-
-class Exchange:</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwYWlyLmV4Y2hfY29kZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
