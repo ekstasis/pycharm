@@ -78,12 +78,12 @@
         <mark key="^" line="19" column="89" />
         <mark key="." line="14" column="21" />
       </file>
-      <file name="/Volumes/Audio/Developer/gobot/gobot/classes/account.py" timestamp="1557974121789">
-        <mark key="'" line="24" column="36" />
-        <mark key="[" line="20" column="30" />
-        <mark key="]" line="20" column="30" />
-        <mark key="^" line="11" column="3" />
-        <mark key="." line="20" column="30" />
+      <file name="/Volumes/Audio/Developer/gobot/gobot/classes/account.py" timestamp="1557976134222">
+        <mark key="'" line="59" column="2" />
+        <mark key="[" line="36" column="8" />
+        <mark key="]" line="20" column="19" />
+        <mark key="^" line="20" column="19" />
+        <mark key="." line="20" column="19" />
       </file>
       <file name="$USER_HOME$/Programming/Crypto/gobot/backtesting/new_backtest_v2.py" timestamp="1550355076963">
         <mark key="[" line="23" column="0" />
@@ -162,6 +162,7 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/miniconda3/envs/gobot_37/lib/python3.7/site-packages/cbpro/authenticated_client.py" timestamp="1557975334271" />
       <file name="/Python Console" timestamp="1557964144074">
         <mark key="[" line="0" column="0" />
       </file>
@@ -209,12 +210,12 @@
         <mark key="^" line="29" column="11" />
         <mark key="." line="29" column="11" />
       </file>
-      <file name="/Volumes/Audio/Developer/gobot/tests/test_classes.py" timestamp="1557974413614">
+      <file name="/Volumes/Audio/Developer/gobot/tests/test_classes.py" timestamp="1557975883080">
         <mark key="'" line="52" column="3" />
-        <mark key="[" line="79" column="49" />
-        <mark key="]" line="75" column="4" />
-        <mark key="." line="75" column="4" />
-        <mark key="^" line="75" column="4" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="112" column="54" />
       </file>
       <file name="/Volumes/Audio/Developer/gobot/jb/exchange_api_stuff/gdax_functions.py" timestamp="1557958368485" />
       <file name="$USER_HOME$/Programming/Crypto/gobot/jb/sqlalchemy.py" timestamp="1546097966578">
@@ -571,7 +572,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="35" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/phantom.py" />
       <jump line="107" column="30" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/phantom.py" />
       <jump line="108" column="31" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/phantom.py" />
       <jump line="111" column="32" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/phantom.py" />
@@ -671,6 +671,7 @@
       <jump line="10" column="0" filename="/Volumes/Audio/Developer/gobot/gobot/classes/account.py" />
       <jump line="24" column="36" filename="/Volumes/Audio/Developer/gobot/gobot/classes/account.py" />
       <jump line="52" column="3" filename="/Volumes/Audio/Developer/gobot/tests/test_classes.py" />
+      <jump line="56" column="2" filename="/Volumes/Audio/Developer/gobot/gobot/classes/account.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -690,8 +691,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyByYWlzZSBFeGNlcHRpb24oIk5vIEFQSSBDbGllbnQgZm9yIHBhaXI6JXMgIGFjY3Q6JXMiLCBwYWlyLCBzZWxmLmlkKQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1581,7 +1582,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
@@ -1590,7 +1591,7 @@
         <text encoding="base64">ICAgIHByaW50KGNsaWVudC5jcmVkZW50aWFscykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyByYWlzZSBFeGNlcHRpb24oIk5vIEFQSSBDbGllbnQgZm9yIHBhaXI6JXMgIGFjY3Q6JXMiLCBwYWlyLCBzZWxmLmlkKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1605,25 +1606,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEl0IGxvb2tzIHVwIHdobyBpcyByZWdpc3RlcmVkIHRvIHRyYWRlIEJUQy9VU0QK</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVnaXN0cnk6IHtQYWlyOiBbQWNjb3VudF19ID0ge30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgQwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZGF4X2NsaWVudChzZWxmKToKICAgICAgICByZXR1cm4gTm9uZQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IyBkZWYgdGVzdF9pbml0KCk6CiMgICAgIGNyZWRzID0geydnZGF4JzogeyJrZXkiOiAidGhla2V5IiwgInNlY3JldCI6ICJ0aGVzZWNyZXQifX0KIyAgICAgY2xpZW50ID0gQWNjb3VudChpZD0iamFtZXMiLCBjcmVkZW50aWFscz1jcmVkcykKIyAgICAgcHJpbnQoY2xpZW50LmNyZWRlbnRpYWxzKQojICAgICBwcmludChjbGllbnQubmV3X2NsaWVudF9tZXRob2RzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICMga2V5ICAgICAgICAgICAgICBwYXNzcGhyYXNlPXBhc3NwaHJhc2UsIHVybD11cmwpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBhaXJzCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">PSAnYTA1MjMwZWY1YWM3ZmE1MjZmZTljOGZkYTU2M2UwOGMnCiAgICAjIHNlY3JldCA9ICdIZTFobGhwR2ZJVkRNOUwyL3ZVRnZ4SGJWOW9UYmdnU3F3cFBla2gzUFR3MmJJY1NEdXdnbzBCYWIzVVZjTEhSUWN1OTlZMGpHUGkrUTN2MDF0bWN6QT09JwogICAgIyBwYXNzcGhyYXNlID0gJ2JqdjJyd3Q2eG91JwogICAgIyB1cmwgPSAiaHR0cHM6Ly9hcGkucHJvLmNvaW5iYXNlLmNvbSIKICAgICMgY2xpZW50ID0gQ0JQcm9fQVBJX0NsaWVudChrZXk9a2V5LCBzZWNyZXQ9c2VjcmV0LAogICAgIyAgICAgICAgICAgICAg</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
