@@ -78,12 +78,12 @@
         <mark key="^" line="19" column="89" />
         <mark key="." line="14" column="21" />
       </file>
-      <file name="/Volumes/Audio/Developer/gobot/gobot/classes/account.py" timestamp="1557968495698">
+      <file name="/Volumes/Audio/Developer/gobot/gobot/classes/account.py" timestamp="1557972400100">
         <mark key="'" line="24" column="36" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="29" column="12" />
-        <mark key="^" line="29" column="12" />
-        <mark key="." line="29" column="12" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="11" column="3" />
+        <mark key="^" line="11" column="3" />
+        <mark key="." line="11" column="3" />
       </file>
       <file name="$USER_HOME$/Programming/Crypto/gobot/backtesting/new_backtest_v2.py" timestamp="1550355076963">
         <mark key="[" line="23" column="0" />
@@ -209,12 +209,12 @@
         <mark key="^" line="29" column="11" />
         <mark key="." line="29" column="11" />
       </file>
-      <file name="/Volumes/Audio/Developer/gobot/tests/test_classes.py" timestamp="1557968563629">
+      <file name="/Volumes/Audio/Developer/gobot/tests/test_classes.py" timestamp="1557971519187">
         <mark key="'" line="75" column="13" />
-        <mark key="[" line="58" column="24" />
-        <mark key="]" line="58" column="30" />
-        <mark key="." line="58" column="30" />
-        <mark key="^" line="58" column="30" />
+        <mark key="[" line="58" column="47" />
+        <mark key="]" line="59" column="18" />
+        <mark key="." line="59" column="18" />
+        <mark key="^" line="59" column="18" />
       </file>
       <file name="/Volumes/Audio/Developer/gobot/jb/exchange_api_stuff/gdax_functions.py" timestamp="1557958368485" />
       <file name="$USER_HOME$/Programming/Crypto/gobot/jb/sqlalchemy.py" timestamp="1546097966578">
@@ -691,7 +691,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>cash_accounts</text>
+        <text>registry[pair]</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1581,7 +1581,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>cash_accounts</text>
+        <text>registry[pair]</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
@@ -1590,7 +1590,7 @@
         <text encoding="base64">ICAgIHByaW50KGNsaWVudC5jcmVkZW50aWFscykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNhc2hfYWNjb3VudHMgPSBjbGllbnQuYmFsYW5jZXMoKQo=</text>
+        <text encoding="base64">ICAgIEl0IGxvb2tzIHVwIHdobyBpcyByZWdpc3RlcmVkIHRvIHRyYWRlIEJUQy9VU0QK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1602,28 +1602,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNhc2hfYWNjb3VudHMpCg==</text>
+        <text encoding="base64">cmVnaXN0cnk6IHtQYWlyOiBbQWNjb3VudF19ID0ge30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNhc2hfYmFsYW5jZXMgPSB7fQo=</text>
+        <text encoding="base64">Y2xhc3MgQwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNhc2hfYmFsYW5jZXMgPSB7fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Y2xhc3MgQ0JQcm9fQVBJX0NsaWVudChjYnByby5BdXRoZW50aWNhdGVkQ2xpZW50KToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBrZXksIHNlY3JldCwgcGFzc3BocmFzZSwgdXJsKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKGtleT1rZXksIGI2NHNlY3JldD1zZWNyZXQsCiAgICAgICAgICAgICAgICAgICAgICAgICBwYXNzcGhyYXNlPXBhc3NwaHJhc2UsIGFwaV91cmw9dXJsKQogICAgCiAgICBkZWYgY2FzaF9hY2NvdW50X2JhbGFuY2VzKHNlbGYpOgogICAgICAgIGNhc2hfYmFsYW5jZXMgPSB7fQogICAgICAgIGFjY291bnRzID0gc2VsZi5nZXRfYWNjb3VudHMoKQogICAgICAgIGZvciBhY2N0IGluIGFjY291bnRzOgogICAgICAgICAgICA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRlZiBnZGF4X2NsaWVudChzZWxmKToKICAgICAgICByZXR1cm4gTm9uZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVybCA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Q2xpZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBhaXJzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBjbGFzcyBDQlBybyhjYnByby5hdXRoZW50aWNhdGVkX2NsaWVudCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNlbGYubmV3X2NsaWVudF9tZXRob2RzID0geydHREFYJzogc2VsZi5nZGF4X2NsaWVudH0K</text>
+        <text encoding="base64">ICAgIGNhc2hfYWNjb3VudHMgPSBjbGllbnQuYmFsYW5jZXMoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
