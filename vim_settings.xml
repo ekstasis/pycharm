@@ -78,12 +78,12 @@
         <mark key="^" line="19" column="89" />
         <mark key="." line="14" column="21" />
       </file>
-      <file name="/Volumes/Audio/Developer/gobot/gobot/classes/account.py" timestamp="1557967562343">
+      <file name="/Volumes/Audio/Developer/gobot/gobot/classes/account.py" timestamp="1557968495698">
         <mark key="'" line="24" column="36" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="27" column="7" />
-        <mark key="." line="29" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="29" column="12" />
+        <mark key="^" line="29" column="12" />
+        <mark key="." line="29" column="12" />
       </file>
       <file name="$USER_HOME$/Programming/Crypto/gobot/backtesting/new_backtest_v2.py" timestamp="1550355076963">
         <mark key="[" line="23" column="0" />
@@ -209,12 +209,12 @@
         <mark key="^" line="29" column="11" />
         <mark key="." line="29" column="11" />
       </file>
-      <file name="/Volumes/Audio/Developer/gobot/tests/test_classes.py" timestamp="1557967647848">
-        <mark key="'" line="66" column="13" />
-        <mark key="[" line="50" column="24" />
-        <mark key="]" line="50" column="9" />
-        <mark key="^" line="50" column="3" />
-        <mark key="." line="50" column="9" />
+      <file name="/Volumes/Audio/Developer/gobot/tests/test_classes.py" timestamp="1557968563629">
+        <mark key="'" line="75" column="13" />
+        <mark key="[" line="58" column="24" />
+        <mark key="]" line="58" column="30" />
+        <mark key="." line="58" column="30" />
+        <mark key="^" line="58" column="30" />
       </file>
       <file name="/Volumes/Audio/Developer/gobot/jb/exchange_api_stuff/gdax_functions.py" timestamp="1557958368485" />
       <file name="$USER_HOME$/Programming/Crypto/gobot/jb/sqlalchemy.py" timestamp="1546097966578">
@@ -241,7 +241,7 @@
         <mark key="." line="16" column="17" />
         <mark key="^" line="21" column="112" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1557967667036">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1557967780504">
         <mark key="'" line="0" column="9" />
         <mark key="[" line="28" column="11" />
         <mark key="]" line="28" column="11" />
@@ -691,7 +691,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Client</text>
+        <text>cash_accounts</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1581,7 +1581,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>Client</text>
+        <text>cash_accounts</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
@@ -1590,7 +1590,7 @@
         <text encoding="base64">ICAgIHByaW50KGNsaWVudC5jcmVkZW50aWFscykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBjbGFzcyBDQlBybyhjYnByby5hdXRoZW50aWNhdGVkX2NsaWVudCk6Cg==</text>
+        <text encoding="base64">ICAgIGNhc2hfYWNjb3VudHMgPSBjbGllbnQuYmFsYW5jZXMoKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1602,28 +1602,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlbGYubmV3X2NsaWVudF9tZXRob2RzID0geydHREFYJzogc2VsZi5nZGF4X2NsaWVudH0K</text>
+        <text encoding="base64">ICAgIHByaW50KGNhc2hfYWNjb3VudHMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjYnByby5BdXRoZW50aWNhdGVkX2NsaWVudCgK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNhc2hfYmFsYW5jZXMgPSB7fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciBleGNoX2NvZGUsIGV4Y2hfY3JlZHMgaW4gY3JlZGVudGlhbHMuaXRlbXMoKToKICAgICAgICBzZWxmLmNyZWRlbnRpYWxzW2V4Y2hfY29kZS51cHBlcigpXSA9IGV4Y2hfY3JlZHMK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNhc2hfYmFsYW5jZXMgPSB7fQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICMgY3JlZGVudGlhbHM6IGVnLCB7IkdEQVgiOiB7ImtleSI6ICJzbGtkamYiLCAic2VjcmV0IjogInNsa2pkIiAuLi4gfQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">Y2xhc3MgQ0JQcm9fQVBJX0NsaWVudChjYnByby5BdXRoZW50aWNhdGVkQ2xpZW50KToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBrZXksIHNlY3JldCwgcGFzc3BocmFzZSwgdXJsKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKGtleT1rZXksIGI2NHNlY3JldD1zZWNyZXQsCiAgICAgICAgICAgICAgICAgICAgICAgICBwYXNzcGhyYXNlPXBhc3NwaHJhc2UsIGFwaV91cmw9dXJsKQogICAgCiAgICBkZWYgY2FzaF9hY2NvdW50X2JhbGFuY2VzKHNlbGYpOgogICAgICAgIGNhc2hfYmFsYW5jZXMgPSB7fQogICAgICAgIGFjY291bnRzID0gc2VsZi5nZXRfYWNjb3VudHMoKQogICAgICAgIGZvciBhY2N0IGluIGFjY291bnRzOgogICAgICAgICAgICA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNlbGYuY3JlZGVudGlhbHM6IHtzdHI6IHtzdHI6IHN0cn19ID0ge30K</text>
+        <text encoding="base64">ICAgIHVybCA9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKSk6Cg==</text>
+        <text encoding="base64">Q2xpZW50Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgQVBJX0NsaWVudDoKICAgIGRlZiBidXkoc2VsZik6CiAgICAgICAgc2VsZi5jbGllbnQuYnV5KCkK</text>
+        <text encoding="base64">IyBjbGFzcyBDQlBybyhjYnByby5hdXRoZW50aWNhdGVkX2NsaWVudCk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNyZWRlbnRpYWxzOiB7c3RyOiB7c3RyOiBzdHJ9fSA9IHt9CiAgICAgICAgIyBjcmVkZW50aWFsczogZWcsIHsiR0RBWCI6IHsia2V5IjogInNsa2RqZiIsICJzZWNyZXQiOiAic2xramQiIC4uLiB9CiAgICAgICAgZm9yIGV4Y2hfY29kZSwgZXhjaF9jcmVkcyBpbiBjcmVkZW50aWFscy5pdGVtcygpOgogICAgICAgICAgICBzZWxmLmNyZWRlbnRpYWxzW2V4Y2hfY29kZS51cHBlcigpXSA9IGV4Y2hfY3JlZHMKCiAgICAgICAgc2VsZi5uZXdfY2xpZW50X21ldGhvZHMgPSB7J0dEQVgnOiBzZWxmLmdkYXhfY2xpZW50fQo=</text>
+        <text encoding="base64">ICAgIHNlbGYubmV3X2NsaWVudF9tZXRob2RzID0geydHREFYJzogc2VsZi5nZGF4X2NsaWVudH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
