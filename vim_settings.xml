@@ -85,12 +85,12 @@
         <mark key="^" line="19" column="89" />
         <mark key="." line="14" column="21" />
       </file>
-      <file name="/Volumes/Audio/Developer/gobot/gobot/classes/account.py" timestamp="1558056964192">
+      <file name="/Volumes/Audio/Developer/gobot/gobot/classes/account.py" timestamp="1558057914708">
         <mark key="'" line="60" column="35" />
-        <mark key="[" line="80" column="69" />
-        <mark key="]" line="80" column="69" />
-        <mark key="." line="80" column="69" />
-        <mark key="^" line="80" column="49" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="43" column="63" />
       </file>
       <file name="$USER_HOME$/Programming/Crypto/gobot/backtesting/new_backtest_v2.py" timestamp="1550355076963">
         <mark key="[" line="23" column="0" />
@@ -707,8 +707,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1598,13 +1598,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBidXlfd2l0aF9mdW5kcyhzZWxmLCBwYWlyOiBQYWlyLCBmdW5kczogc3RyID0gIiIpOgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBhcGlfY2xpZW50LmNhbl9hZmZvcmQocGFpciwgZnVuZHM9ZnVuZHMsIGFtb3VudD1Ob25lKToKICAgICAgICAgICAgYXBpX2NsaWVudC5idXkocGFpciwgYW1vdW50KQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJhaXNlIFdhcm5pbmcoIkluc3VmZmljaWVudCBiYWxhbmNlIGZvciBhY2N0LiAlcywgJXMiICUgKHNlbGYuaWQsIHBhaXIpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1619,16 +1619,20 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbW91bnRfdG9fYnV5ID0gc3RyKGFtb3VudF90b19idXkpCiAgICAgICAgcHJpbnQocGFpciwgYW1vdW50X3RvX2J1eSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBidXkoc2VsZiwgcGFpcjogUGFpciwgYW1vdW50X3RvX2J1eTogZmxvYXQpOgo=</text>
+        <text encoding="base64">ICAgIGRlZiBidXkoc2VwdGlvbigiTmVlZCB0byBzcGVjaWZ5IGVpdGhlciBhbW91bnQgb3IgY3VycmVuY3kiKQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZWxsKHNlbGYsIHBhaXI6IFBhaXIsIGFtb3VudDogc3RyKToK</text>
+      <register name="4" type="4">
+        <text>lf, pair: Pair, amount: str = &quot;&quot;, currency:str = &quot;&quot;):
+        # use Either amount (amount of asset to buy), or
+        #   currency (amount of quote currency to use to buy product)
+        if (amount == &quot;&quot; and currency == &quot;&quot;) or (amount != &quot;&quot; and currency != &quot;&quot;):
+            raise Exce</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBidXkoc2VsZiwgcGFpcjogUGFpciwgYW1vdW50X3RvX2J1eTogZmxvYXQpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1652,16 +1656,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBidXkoc2VsZiwgcGFpcjogUGFpciwgYW1vdW50X3RvX2J1eTogZmxvYXQpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZWxsKHNlbGYsIHBhaXI6IFBhaXIsIGFtb3VudDogc3RyKToK</text>
+        <text encoding="base64">ICAgICAgICBpZiBhcGlfY2xpZW50LmNhbl9hZmZvcmQocGFpciwgYW1vdW50LCBjdXJyZW5jeSk6CiAgICAgICAgICAgIGFwaV9jbGllbnQuYnV5KHBhaXIsIGFtb3VudCkKICAgICAgICBlbHNlOgogICAgICAgICAgICByYWlzZSBXYXJuaW5nKCJJbnN1ZmZpY2llbnQgYmFsYW5jZSBmb3IgYWNjdC4gJXMsICVzIiAlIChzZWxmLmlkLCBwYWlyKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBidXkoc2VsZiwgcGFpcjogUGFpciwgYW1vdW50OiBzdHIpOgo=</text>
+        <text encoding="base64">ICAgICAgICBhcGlfY2xpZW50ID0gc2VsZi5hcGlfY2xpZW50c1twYWlyLmV4Y2hfY29kZV0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi50cmFkZXNfdGhpc19wYWlyKHBhaXIpOgogICAgICAgICAgICByYWlzZSBFeGNlcHRpb24oJ1RoaXMgY2xpZW50IGRvZXMgbm90IHRyYWRlICVzJywgcGFpcikK</text>
       </register>
       <register name=":" type="4">
         <text>53,+10d</text>
