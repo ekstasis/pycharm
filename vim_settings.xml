@@ -9,7 +9,7 @@
       <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/deleteme.py" timestamp="1543427502724">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1558054411642">
+      <file name="/a.dummy" timestamp="1558067044555">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/Audio/Programming/Crypto/gobot/gobot/check_last_trade.py" timestamp="1526934314739">
@@ -30,12 +30,12 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="40" />
       </file>
-      <file name="/Volumes/Audio/Developer/gobot/tests/test_api_clients.py" timestamp="1558066489538">
+      <file name="/Volumes/Audio/Developer/gobot/tests/test_api_clients.py" timestamp="1558068237090">
         <mark key="'" line="67" column="0" />
-        <mark key="[" line="65" column="10" />
-        <mark key="]" line="65" column="15" />
-        <mark key="^" line="65" column="15" />
-        <mark key="." line="65" column="15" />
+        <mark key="[" line="33" column="43" />
+        <mark key="]" line="33" column="43" />
+        <mark key="^" line="33" column="32" />
+        <mark key="." line="33" column="43" />
       </file>
       <file name="/'backtest_1'" timestamp="1527005543352">
         <mark key="[" line="0" column="0" />
@@ -170,7 +170,7 @@
         <mark key="^" line="175" column="55" />
         <mark key="." line="175" column="55" />
       </file>
-      <file name="/Python Console" timestamp="1558064142668">
+      <file name="/Python Console" timestamp="1558068069437">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1550021651260">
@@ -664,7 +664,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;150.0&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1554,16 +1554,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;150.0&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB1c2RfdmFsdWVfb2ZfaG9sZGluZ3Moc2VsZiwgcGFpcjogUGFpcik6Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbm90IGpiX3JlYWxfY2Jwcm9fY2xpZW50LmNhbl9hZmZvcmQoUGFpci5idGMoKSwgYW1vdW50PXN0cih0b29fbXVjaCkpCiAgICAgICAgYXNzZXJ0IG5vdCBqYl9yZWFsX2NicHJvX2NsaWVudC5jYW5fYWZmb3JkKFBhaXIuYnRjKCksIGN1cnJlbmN5PXN0cih1c2RfYmFsYW5jZSArIDEpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFtb3VudCkK</text>
+      <register name="1" type="8">
+        <text encoding="base64">bm90IApub3Qg</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1575,16 +1575,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV0aF9iYWxhbmNlID0gZmxvYXQoY2Jwcm9fY2xpZW50LmNhc2hfYmFsYW5jZXNbJ0VUSCddKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGFtb3VudCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBhYnMoLjY4MSAtIGV0aF9iYWxhbmNlKSA8IC4wMDAwMDAxCg==</text>
+        <text encoding="base64">ICAgIGV0aF9iYWxhbmNlID0gZmxvYXQoY2Jwcm9fY2xpZW50LmNhc2hfYmFsYW5jZXNbJ0VUSCddKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCBhYnMoLjY4MSAtIGV0aF9iYWxhbmNlKSA8IC4wMDAwMDAxCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9kX2lkID0gQ0JQcm9fQVBJX0NsaWVudC5tYWtlX3Byb2R1Y3RfaWQocGFpcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1611,15 +1611,13 @@
         <text encoding="base64">ICAgICAgICBwcm9kX2lkID0gQ0JQcm9fQVBJX0NsaWVudC5tYWtlX3Byb2R1Y3RfaWQocGFpcikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9kX2lkID0gQ0JQcm9fQVBJX0NsaWVudC5tYWtlX3Byb2R1Y3RfaWQocGFpcikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text># Sell .001 Ethereum
-    result = jb_acct.market_order(eth, side=&quot;sell&quot;, amount=&quot;.001&quot;)
-    assert 'size is too small. Minimum size is 0.01' == result['message']</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>53,+10d</text>
