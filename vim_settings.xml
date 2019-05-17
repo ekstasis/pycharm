@@ -78,12 +78,12 @@
         <mark key="^" line="19" column="89" />
         <mark key="." line="14" column="21" />
       </file>
-      <file name="/Volumes/Audio/Developer/gobot/gobot/classes/account.py" timestamp="1558050525635">
+      <file name="/Volumes/Audio/Developer/gobot/gobot/classes/account.py" timestamp="1558051507968">
         <mark key="'" line="59" column="2" />
-        <mark key="[" line="69" column="50" />
-        <mark key="]" line="69" column="75" />
-        <mark key="^" line="69" column="75" />
-        <mark key="." line="69" column="75" />
+        <mark key="[" line="68" column="18" />
+        <mark key="]" line="68" column="18" />
+        <mark key="^" line="37" column="27" />
+        <mark key="." line="68" column="18" />
       </file>
       <file name="$USER_HOME$/Programming/Crypto/gobot/backtesting/new_backtest_v2.py" timestamp="1550355076963">
         <mark key="[" line="23" column="0" />
@@ -209,12 +209,12 @@
         <mark key="^" line="29" column="11" />
         <mark key="." line="29" column="11" />
       </file>
-      <file name="/Volumes/Audio/Developer/gobot/tests/test_classes.py" timestamp="1558050099859">
+      <file name="/Volumes/Audio/Developer/gobot/tests/test_classes.py" timestamp="1558051383285">
         <mark key="'" line="52" column="3" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="52" column="0" />
+        <mark key="[" line="94" column="47" />
+        <mark key="]" line="95" column="66" />
+        <mark key="." line="95" column="66" />
+        <mark key="^" line="95" column="66" />
       </file>
       <file name="$USER_HOME$/Programming/Crypto/gobot/jb/sqlalchemy.py" timestamp="1546097966578">
         <mark key="[" line="0" column="15" />
@@ -690,7 +690,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>self.produ)</text>
+        <text>cls.</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1580,16 +1580,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>self.produ)</text>
+        <text>cls.</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCAiRVRILVVTRCIgPT0gQ0JQcm9fQVBJX0NsaWVudC5NYWtlX1Byb2R1Y3RfSUQoZXRoKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBidXkoc2VsZiwgcGFpcjogUGFpciwgYW1vdW50OiBzdHIpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBzZWxsKHNlbGYsIHBhaXIsIGFtb3VudCk6Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1601,31 +1601,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJ0YyA9IFBhaXIuYnRjCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNsaWVudC5hZGRfcGFpcihidGMsIE5vbmUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIGNsaWVudC5hZGRfcGFpcihidGMsIE5vbmUpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHNzZXJ0ICJObyBBUEkgQ2xpZW50IiBpbiBzdHIoZXhjX2luZm8udmFsdWUpCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>with pytest.raises(Exception) as exc_info:
         client.buy(btc)
 
     a</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
