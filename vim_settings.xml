@@ -78,12 +78,12 @@
         <mark key="^" line="19" column="89" />
         <mark key="." line="14" column="21" />
       </file>
-      <file name="/Volumes/Audio/Developer/gobot/gobot/classes/account.py" timestamp="1558051507968">
-        <mark key="'" line="59" column="2" />
-        <mark key="[" line="68" column="18" />
-        <mark key="]" line="68" column="18" />
-        <mark key="^" line="37" column="27" />
-        <mark key="." line="68" column="18" />
+      <file name="/Volumes/Audio/Developer/gobot/gobot/classes/account.py" timestamp="1558053810101">
+        <mark key="'" line="60" column="35" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Programming/Crypto/gobot/backtesting/new_backtest_v2.py" timestamp="1550355076963">
         <mark key="[" line="23" column="0" />
@@ -162,7 +162,7 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1557964144074">
+      <file name="/Python Console" timestamp="1558051636409">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1550021651260">
@@ -209,18 +209,24 @@
         <mark key="^" line="29" column="11" />
         <mark key="." line="29" column="11" />
       </file>
-      <file name="/Volumes/Audio/Developer/gobot/tests/test_classes.py" timestamp="1558051383285">
+      <file name="/Volumes/Audio/Developer/gobot/tests/test_classes.py" timestamp="1558053949907">
         <mark key="'" line="52" column="3" />
-        <mark key="[" line="94" column="47" />
-        <mark key="]" line="95" column="66" />
-        <mark key="." line="95" column="66" />
-        <mark key="^" line="95" column="66" />
+        <mark key="[" line="97" column="4" />
+        <mark key="]" line="97" column="10" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="95" column="7" />
       </file>
       <file name="$USER_HOME$/Programming/Crypto/gobot/jb/sqlalchemy.py" timestamp="1546097966578">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="35" />
         <mark key="." line="0" column="35" />
         <mark key="^" line="0" column="35" />
+      </file>
+      <file name="/Volumes/Audio/Developer/gobot/tests/test_CBPro_API_Client.py" timestamp="1558053977354">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="11" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/ff/foo1.py" timestamp="1534302403195">
         <mark key="[" line="1" column="1" />
@@ -353,6 +359,7 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
+      <file name="/Volumes/Audio/Developer/gobot/gobot/exchanges.py" timestamp="1558053021311" />
       <file name="$USER_HOME$/Programming/Crypto/gobot/testing/mock_db.py" timestamp="1535401508270">
         <mark key="[" line="0" column="22" />
         <mark key="]" line="0" column="25" />
@@ -570,9 +577,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="30" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/phantom.py" />
-      <jump line="108" column="31" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/phantom.py" />
-      <jump line="111" column="32" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/phantom.py" />
       <jump line="86" column="36" filename="$USER_HOME$/Programming/Crypto/gobot/tests/test_phantom.py" />
       <jump line="87" column="57" filename="$USER_HOME$/Programming/Crypto/gobot/tests/test_phantom.py" />
       <jump line="99" column="57" filename="$USER_HOME$/Programming/Crypto/gobot/tests/test_phantom.py" />
@@ -670,6 +674,9 @@
       <jump line="24" column="36" filename="/Volumes/Audio/Developer/gobot/gobot/classes/account.py" />
       <jump line="52" column="3" filename="/Volumes/Audio/Developer/gobot/tests/test_classes.py" />
       <jump line="56" column="2" filename="/Volumes/Audio/Developer/gobot/gobot/classes/account.py" />
+      <jump line="82" column="34" filename="/Volumes/Audio/Developer/gobot/gobot/classes/account.py" />
+      <jump line="58" column="12" filename="/Volumes/Audio/Developer/gobot/gobot/classes/account.py" />
+      <jump line="60" column="35" filename="/Volumes/Audio/Developer/gobot/gobot/classes/account.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -690,7 +697,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>cls.</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1580,16 +1587,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>cls.</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBidXkoc2VsZiwgcGFpcjogUGFpciwgYW1vdW50OiBzdHIpOgo=</text>
+      <register name="0" type="4">
+        <text>Helpers</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZWxsKHNlbGYsIHBhaXIsIGFtb3VudCk6Cg==</text>
+        <text encoding="base64">Y2xhc3MgVGVzdENCUHJvX0FQSV9DbGllbnQoVGVzdENhc2UpOgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1601,31 +1608,49 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJ0YyA9IFBhaXIuYnRjCg==</text>
+        <text encoding="base64">ICAgICMgZGVmIF9faW5pdF9fKHNlbGYsIGtleSwgc2VjcmV0LCBwYXNzcGhyYXNlLCB1cmwpOgogICAgIyAgICAgc3VwZXIoKS5fX2luaXRfXyhrZXk9a2V5LCBiNjRzZWNyZXQ9c2VjcmV0LAogICAgIyAgICAgICAgICAgICAgICAgICAgICBwYXNzcGhyYXNlPXBhc3NwaHJhc2UsIGFwaV91cmw9dXJsKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzaF9iYWxhbmNlID0gZmxvYXQoYXBpX2NsaWVudC5jYXNoX2JhbGFuY2VzW3BhaXIuY3Vycl0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcXVvdGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiaWQgPSBxdW90ZVsnYmlkJ10K</text>
+      </register>
+      <register name="u" type="4">
+        <keys>
+          <key char="111" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+        </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNsaWVudC5hZGRfcGFpcihidGMsIE5vbmUpCg==</text>
+        <text encoding="base64">ICAgICAgICBhc2sgPSBxdW90ZVsnYXNrJ10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmdldF9wcm9kdWN0X3RpY2tlcigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNzZXJ0ICJObyBBUEkgQ2xpZW50IiBpbiBzdHIoZXhjX2luZm8udmFsdWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQgPSBjYnByby5QdWJsaWNDbGllbnQoKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>with pytest.raises(Exception) as exc_info:
-        client.buy(btc)
-
-    a</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwYWlyX3N0ciA9ICclcy0lcycgJSAocGFpci5jb2luLCBwYWlyLmN1cnIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
