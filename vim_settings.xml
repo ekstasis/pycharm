@@ -175,7 +175,7 @@
         <mark key="^" line="175" column="55" />
         <mark key="." line="175" column="55" />
       </file>
-      <file name="/Python Console" timestamp="1559158786843">
+      <file name="/Python Console" timestamp="1559163181615">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1550021651260">
@@ -210,12 +210,11 @@
         <mark key="]" line="284" column="0" />
         <mark key="." line="284" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/gobot/gobot/classes/account.py" timestamp="1559161635037">
-        <mark key="'" line="76" column="0" />
-        <mark key="[" line="40" column="20" />
-        <mark key="]" line="40" column="28" />
-        <mark key="." line="40" column="28" />
-        <mark key="^" line="40" column="28" />
+      <file name="$USER_HOME$/Developer/gobot/gobot/classes/account.py" timestamp="1559162533336">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/package/__init__.py" timestamp="1534302592301">
         <mark key="[" line="0" column="0" />
@@ -280,12 +279,12 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
-      <file name="$USER_HOME$/Developer/gobot/tests/test_api_clients.py" timestamp="1559161431974">
-        <mark key="'" line="93" column="13" />
-        <mark key="[" line="47" column="28" />
-        <mark key="]" line="47" column="28" />
-        <mark key="." line="47" column="28" />
-        <mark key="^" line="49" column="24" />
+      <file name="$USER_HOME$/Developer/gobot/tests/test_api_clients.py" timestamp="1559163611128">
+        <mark key="'" line="97" column="33" />
+        <mark key="[" line="103" column="25" />
+        <mark key="]" line="103" column="25" />
+        <mark key="." line="103" column="25" />
+        <mark key="^" line="54" column="40" />
       </file>
       <file name="$USER_HOME$/Programming/Crypto/gobot/backtesting/new_backtest_v3.py" timestamp="1550355080108">
         <mark key="[" line="23" column="0" />
@@ -609,11 +608,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="43" filename="$USER_HOME$/Programming/Crypto/gobot/app_support/prime_ema.py" />
-      <jump line="262" column="13" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
-      <jump line="269" column="7" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
-      <jump line="80" column="27" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
-      <jump line="86" column="35" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
       <jump line="85" column="30" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
       <jump line="87" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
       <jump line="209" column="28" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
@@ -709,6 +703,11 @@
       <jump line="142" column="16" filename="$USER_HOME$/Developer/gobot/tests/test_api_clients.py" />
       <jump line="152" column="4" filename="$USER_HOME$/Developer/gobot/tests/test_api_clients.py" />
       <jump line="82" column="13" filename="$USER_HOME$/Developer/gobot/tests/test_api_clients.py" />
+      <jump line="53" column="4" filename="$USER_HOME$/Developer/gobot/tests/test_api_clients.py" />
+      <jump line="56" column="16" filename="$USER_HOME$/Developer/gobot/tests/test_api_clients.py" />
+      <jump line="103" column="25" filename="$USER_HOME$/Developer/gobot/tests/test_api_clients.py" />
+      <jump line="87" column="26" filename="$USER_HOME$/Developer/gobot/tests/test_api_clients.py" />
+      <jump line="97" column="33" filename="$USER_HOME$/Developer/gobot/tests/test_api_clients.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -720,7 +719,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>set</text>
+        <text>s</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1610,16 +1609,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>set</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>Account</text>
+        <text>pairs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGpiX2FjY3QuYWRkX3BhaXIoUGFpci5idGMoKSwgamJfcmVhbF9jYnByb19jbGllbnQpCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCBub3QgamJfcmVhbF9jYnByb19jbGllbnQuZW5vdWdoX3RvX3NlbGwoUGFpci5idGMoKSwgYW1vdW50PXRvb19tdWNoX2J0YykKICAgIGFzc2VydCBub3QgamJfcmVhbF9jYnByb19jbGllbnQuZW5vdWdoX3RvX3NlbGwoUGFpci5ldGgoKSwgYW1vdW50PXRvb19tdWNoX2V0aCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1631,16 +1630,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICA6cGFyYW0gcGFpcjoKICAgICAgICA6cmV0dXJuOgogICAgICAgICIiIgo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCBqYl9yZWFsX2NicHJvX2NsaWVudC5lbm91Z2hfdG9fc2VsbChQYWlyLmV0aCgpLCBhbW91bnQ9Ii42ODEiKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV0aCA9IFBhaXIoJ0VUSCcsICdVU0QnLCAnR0RBWCcpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGJ0Y19iYWxhbmNlLCBldGhfYmFsYW5jZSkKCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1664,34 +1663,32 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCBqYl9hY2N0LmFwaV9jbGllbnRzWyJHREFYIl0gPT0gamJfcmVhbF9jYnByb19jbGllbnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCBidGMgPT0gamJfYWNjdC5wYWlyc1sxXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGVsc2U6Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>53,+10d</text>
+        <text>s/btc/eth/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Account</last-search>
+      <last-search>pairs</last-search>
       <last-offset />
-      <last-pattern>Account</last-pattern>
-      <last-replace>path</last-replace>
-      <last-substitute>drive</last-substitute>
+      <last-pattern>pairs</last-pattern>
+      <last-replace>eth</last-replace>
+      <last-substitute>btc</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>current mode</entry>
-        <entry>Current</entry>
         <entry>info</entry>
         <entry>logging.info</entry>
         <entry>bittrex</entry>
@@ -1710,10 +1707,10 @@
         <entry>&quot;&quot;</entry>
         <entry>currency</entry>
         <entry>Account</entry>
+        <entry>btc</entry>
+        <entry>pairs</entry>
       </history-search>
       <history-cmd>
-        <entry>s/'/&quot;/g</entry>
-        <entry>s/'/&quot;</entry>
         <entry>%s/;//</entry>
         <entry>set rnu</entry>
         <entry>%s/&quot;&quot;&quot;,/&quot;&quot;&quot;</entry>
@@ -1732,6 +1729,8 @@
         <entry>75</entry>
         <entry>w</entry>
         <entry>53,+10d</entry>
+        <entry>s/btc/eth</entry>
+        <entry>s/btc/eth/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
