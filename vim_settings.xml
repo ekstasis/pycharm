@@ -280,6 +280,12 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
+      <file name="$USER_HOME$/Developer/gobot/tests/test_api_clients.py" timestamp="1559158058058">
+        <mark key="[" line="3" column="46" />
+        <mark key="]" line="3" column="51" />
+        <mark key="." line="3" column="51" />
+        <mark key="^" line="3" column="51" />
+      </file>
       <file name="$USER_HOME$/Programming/Crypto/gobot/backtesting/new_backtest_v3.py" timestamp="1550355080108">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -713,7 +719,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>Account</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1603,7 +1609,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Account</text>
       </register>
       <register name="/" type="4">
         <text>currency</text>
