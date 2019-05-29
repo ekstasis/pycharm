@@ -175,7 +175,7 @@
         <mark key="^" line="175" column="55" />
         <mark key="." line="175" column="55" />
       </file>
-      <file name="/Python Console" timestamp="1559152742734">
+      <file name="/Python Console" timestamp="1559158786843">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1550021651260">
@@ -210,12 +210,12 @@
         <mark key="]" line="284" column="0" />
         <mark key="." line="284" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/gobot/gobot/classes/account.py" timestamp="1559153969624">
+      <file name="$USER_HOME$/Developer/gobot/gobot/classes/account.py" timestamp="1559159208879">
         <mark key="'" line="77" column="0" />
-        <mark key="[" line="20" column="60" />
-        <mark key="]" line="42" column="42" />
-        <mark key="." line="42" column="42" />
-        <mark key="^" line="42" column="42" />
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="171" column="0" />
+        <mark key="^" line="171" column="0" />
+        <mark key="." line="171" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/package/__init__.py" timestamp="1534302592301">
         <mark key="[" line="0" column="0" />
@@ -280,11 +280,12 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
-      <file name="$USER_HOME$/Developer/gobot/tests/test_api_clients.py" timestamp="1559158058058">
-        <mark key="[" line="3" column="46" />
-        <mark key="]" line="3" column="51" />
-        <mark key="." line="3" column="51" />
-        <mark key="^" line="3" column="51" />
+      <file name="$USER_HOME$/Developer/gobot/tests/test_api_clients.py" timestamp="1559159153018">
+        <mark key="'" line="83" column="13" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="38" column="7" />
       </file>
       <file name="$USER_HOME$/Programming/Crypto/gobot/backtesting/new_backtest_v3.py" timestamp="1550355080108">
         <mark key="[" line="23" column="0" />
@@ -608,18 +609,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="571" column="65" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/Trader.py" />
-      <jump line="250" column="34" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/Trader.py" />
-      <jump line="275" column="17" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/Trader.py" />
-      <jump line="276" column="22" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/Trader.py" />
-      <jump line="323" column="25" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/Trader.py" />
-      <jump line="542" column="26" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/Trader.py" />
-      <jump line="543" column="41" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/Trader.py" />
-      <jump line="544" column="42" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/Trader.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
-      <jump line="329" column="10" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
-      <jump line="109" column="54" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
-      <jump line="183" column="36" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
       <jump line="24" column="43" filename="$USER_HOME$/Programming/Crypto/gobot/app_support/prime_ema.py" />
       <jump line="262" column="13" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
       <jump line="269" column="7" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
@@ -708,6 +697,18 @@
       <jump line="43" column="62" filename="/Volumes/Audio/Developer/gobot/gobot/classes/account.py" />
       <jump line="109" column="32" filename="/Volumes/Audio/Developer/gobot/gobot/classes/account.py" />
       <jump line="76" column="0" filename="$USER_HOME$/Developer/gobot/gobot/classes/account.py" />
+      <jump line="3" column="51" filename="$USER_HOME$/Developer/gobot/tests/test_api_clients.py" />
+      <jump line="61" column="19" filename="$USER_HOME$/Developer/gobot/tests/test_api_clients.py" />
+      <jump line="69" column="19" filename="$USER_HOME$/Developer/gobot/tests/test_api_clients.py" />
+      <jump line="81" column="21" filename="$USER_HOME$/Developer/gobot/tests/test_api_clients.py" />
+      <jump line="98" column="9" filename="$USER_HOME$/Developer/gobot/tests/test_api_clients.py" />
+      <jump line="102" column="16" filename="$USER_HOME$/Developer/gobot/tests/test_api_clients.py" />
+      <jump line="111" column="18" filename="$USER_HOME$/Developer/gobot/tests/test_api_clients.py" />
+      <jump line="122" column="16" filename="$USER_HOME$/Developer/gobot/tests/test_api_clients.py" />
+      <jump line="135" column="18" filename="$USER_HOME$/Developer/gobot/tests/test_api_clients.py" />
+      <jump line="142" column="16" filename="$USER_HOME$/Developer/gobot/tests/test_api_clients.py" />
+      <jump line="152" column="4" filename="$USER_HOME$/Developer/gobot/tests/test_api_clients.py" />
+      <jump line="82" column="13" filename="$USER_HOME$/Developer/gobot/tests/test_api_clients.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -718,8 +719,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Account</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1609,21 +1610,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>Account</text>
+        <text encoding="base64">YXNzZXJ0IG5vdCA=</text>
       </register>
       <register name="/" type="4">
-        <text>currency</text>
+        <text>Account</text>
       </register>
-      <register name="0" type="4">
-        <text>t(jb_real_cbpro_client):
-    acct = Account(&quot;test&quot;)
-    acct.add_pair(Pair.btc(), jb_real_cbpro_client)
-    usd_balance = acct.balance(Pair('usd', 'xxx', 'gdax'))
-    funds = float(usd_balance) / 2.0
-    funds = str(int(funds))
-
-    result = acct.market_order(Pair.btc(), side=&quot;buy&quot;, amount=None, funds=funds)
-    print(result)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB3aXRoIHB5dGVzdC5yYWlzZXMoRXhjZXB0aW9uKSBhcyBleGNfaW5mbzoKICAgICAgICAgICAgamJfcmVhbF9jYnByb19jbGllbnQuY2FuX2FmZm9yZChQYWlyLmJ0YygpKQogICAgICAgIGFzc2VydCAiTmVlZCB0byBzcGVjaWZ5IGVpdGhlciBhbW91bnQgb3IgY3VycmVuY3kiIGluIHN0cihleGNfaW5mby52YWx1ZSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1637,11 +1630,11 @@
           <key char="65535" code="67" mods="130" />
         </keys>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJ0YyA9IFBhaXIoJ0JUQycsICdVU0QnLCAnR0RBWCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -1674,22 +1667,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCBqYl9yZWFsX2NicHJvX2NsaWVudC5lbm91Z2hfdG9fc2VsbChldGgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBqYl9yZWFsX2NicHJvX2NsaWVudC5jYW5fYWZmb3JkKFBhaXIuYnRjKCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCBub3QgamJfcmVhbF9jYnByb19jbGllbnQuZW5vdWdoX3RvX3NlbGwoUGFpci5idGMoKSkK</text>
       </register>
       <register name=":" type="4">
         <text>53,+10d</text>
       </register>
     </registers>
     <search>
-      <last-search>currency</last-search>
+      <last-search>Account</last-search>
       <last-offset />
-      <last-pattern>currency</last-pattern>
+      <last-pattern>Account</last-pattern>
       <last-replace>path</last-replace>
       <last-substitute>drive</last-substitute>
       <last-dir>1</last-dir>
@@ -1697,7 +1690,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Checking</entry>
         <entry>current mode</entry>
         <entry>Current</entry>
         <entry>info</entry>
@@ -1717,6 +1709,7 @@
         <entry>dev</entry>
         <entry>&quot;&quot;</entry>
         <entry>currency</entry>
+        <entry>Account</entry>
       </history-search>
       <history-cmd>
         <entry>s/'/&quot;/g</entry>
