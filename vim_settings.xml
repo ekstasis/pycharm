@@ -210,12 +210,12 @@
         <mark key="]" line="284" column="0" />
         <mark key="." line="284" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/gobot/gobot/classes/account.py" timestamp="1558836364134">
-        <mark key="'" line="76" column="0" />
-        <mark key="[" line="41" column="43" />
-        <mark key="]" line="35" column="3" />
-        <mark key="." line="35" column="3" />
-        <mark key="^" line="35" column="3" />
+      <file name="$USER_HOME$/Developer/gobot/gobot/classes/account.py" timestamp="1559153969624">
+        <mark key="'" line="77" column="0" />
+        <mark key="[" line="20" column="60" />
+        <mark key="]" line="42" column="42" />
+        <mark key="." line="42" column="42" />
+        <mark key="^" line="42" column="42" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/package/__init__.py" timestamp="1534302592301">
         <mark key="[" line="0" column="0" />
@@ -712,8 +712,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1603,7 +1603,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b2JqZWN0cyA=</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>currency</text>
