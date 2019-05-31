@@ -133,6 +133,12 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="7" />
       </file>
+      <file name="$USER_HOME$/Developer/gobot/gobot/analysis/utilities.py" timestamp="1559327495402">
+        <mark key="[" line="43" column="4" />
+        <mark key="]" line="43" column="6" />
+        <mark key="." line="43" column="6" />
+        <mark key="^" line="43" column="6" />
+      </file>
       <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/phantom/phantom_tests/test_phantom.py" timestamp="1534282572833">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="21" />
@@ -722,8 +728,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1613,7 +1619,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text />
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>pairs</text>
