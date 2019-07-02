@@ -419,6 +419,7 @@
         <mark key="." line="148" column="53" />
         <mark key="^" line="148" column="53" />
       </file>
+      <file name="$USER_HOME$/Developer/pycharm/scratch_project/eth-hash.py" timestamp="1562097379191" />
       <file name="$USER_HOME$/Programming/Crypto/gobot/backtesting/update_tradingpairs.py" timestamp="1550355086619">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -451,6 +452,7 @@
         <mark key="^" line="194" column="32" />
         <mark key="." line="194" column="32" />
       </file>
+      <file name="$USER_HOME$/Developer/pycharm/scratch_project/lo-pass.py" timestamp="1562097572480" />
       <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/coinigy_api_functions.py" timestamp="1544510303444">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="3" />
@@ -535,6 +537,12 @@
         <mark key="]" line="30" column="25" />
         <mark key="." line="30" column="25" />
         <mark key="^" line="52" column="82" />
+      </file>
+      <file name="$USER_HOME$/Developer/pycharm/scratch_project/fizzbuzz.py" timestamp="1562097399500">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/Volumes/Audio/Programming/Crypto/gobot/gobot/analysis/plotly_ploter.py" timestamp="1528402804946">
         <mark key="[" line="15" column="44" />
