@@ -332,6 +332,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/gobot/crontabs/Updater.py" timestamp="1563645068015" />
       <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/reset_db.py" timestamp="1544820943324">
         <mark key="[" line="27" column="97" />
         <mark key="]" line="27" column="97" />
@@ -419,7 +420,6 @@
         <mark key="." line="148" column="53" />
         <mark key="^" line="148" column="53" />
       </file>
-      <file name="$USER_HOME$/Developer/pycharm/scratch_project/eth-hash.py" timestamp="1562097379191" />
       <file name="$USER_HOME$/Programming/Crypto/gobot/backtesting/update_tradingpairs.py" timestamp="1550355086619">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -452,7 +452,6 @@
         <mark key="^" line="194" column="32" />
         <mark key="." line="194" column="32" />
       </file>
-      <file name="$USER_HOME$/Developer/pycharm/scratch_project/lo-pass.py" timestamp="1562097572480" />
       <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/coinigy_api_functions.py" timestamp="1544510303444">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="3" />
