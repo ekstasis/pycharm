@@ -176,8 +176,11 @@
         <mark key="^" line="175" column="55" />
         <mark key="." line="175" column="55" />
       </file>
-      <file name="/Python Console" timestamp="1564943908965">
+      <file name="/Python Console" timestamp="1564945907974">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="56" />
+        <mark key="^" line="0" column="56" />
+        <mark key="." line="0" column="56" />
       </file>
       <file name="/fragment.py" timestamp="1550021651260">
         <mark key="[" line="0" column="0" />
@@ -212,11 +215,12 @@
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1564945039924">
-        <mark key="[" line="9" column="49" />
-        <mark key="]" line="10" column="34" />
-        <mark key="." line="10" column="34" />
-        <mark key="^" line="10" column="34" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1564945849290">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="3" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/package/__init__.py" timestamp="1534302592301">
         <mark key="[" line="0" column="0" />
@@ -536,7 +540,7 @@
         <mark key="^" line="12" column="20" />
         <mark key="." line="11" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559327005604">
+      <file name="/Dummy.txt" timestamp="1564945731243">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/Audio/Programming/Crypto/gobot/gobot/API" timestamp="1522205320322">
@@ -602,7 +606,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="229" column="41" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
       <jump line="339" column="13" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
       <jump line="349" column="15" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
       <jump line="354" column="8" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
@@ -702,6 +705,7 @@
       <jump line="96" column="0" filename="$USER_HOME$/Developer/gobot/gobot/classes/account.py" />
       <jump line="58" column="0" filename="$USER_HOME$/Developer/gobot/gobot/classes/account.py" />
       <jump line="147" column="4" filename="$USER_HOME$/Developer/gobot/crontabs/Updater.py" />
+      <jump line="23" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -712,8 +716,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1612,7 +1616,7 @@
         <text encoding="base64">ICAgIHRwID0gcGQucmVhZF9zcWwoJ1NFTEVDVCAqIEZST00gdHJhZGluZ3BhaXJzIHdoZXJlIGFjdGl2ZT0iWSInLCBjb25uLCBpbmRleF9jb2w9J2lkJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRlbGV0ZV9xcnkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1624,16 +1628,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB0aW1lIGltcG9ydCBzbGVlcAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoKQo=</text>
+        <text encoding="base64">IyBib3QgPSAnYXVyaWMnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoRXhjaC5FWENIX0NPREVTKQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1657,16 +1661,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGhlbHBlcnMgYXMgaGxwCg==</text>
+        <text encoding="base64">IyAjIHByaW50KEV4Y2guRVhDSF9DT0RFUykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhjaCAgCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGRlbGV0ZV9xcnkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoZXhjaHMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
