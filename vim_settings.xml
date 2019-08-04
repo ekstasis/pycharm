@@ -103,6 +103,7 @@
         <mark key="." line="30" column="14" />
         <mark key="^" line="30" column="14" />
       </file>
+      <file name="$USER_HOME$/Developer/gobot/gobot/gobotDB.py" timestamp="1564876272205" />
       <file name="$USER_HOME$/PycharmProjects/untitled/package/foo1.py" timestamp="1534302784395">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="5" />
@@ -332,7 +333,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/gobot/crontabs/Updater.py" timestamp="1563645068015" />
       <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/reset_db.py" timestamp="1544820943324">
         <mark key="[" line="27" column="97" />
         <mark key="]" line="27" column="97" />
