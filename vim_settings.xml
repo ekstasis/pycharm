@@ -92,18 +92,12 @@
         <mark key="." line="113" column="73" />
         <mark key="^" line="113" column="73" />
       </file>
-      <file name="$USER_HOME$/Programming/Crypto/gobot/backtesting/new_backtest_v2.py" timestamp="1550355076963">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="/Volumes/Audio/Developer/gobot/app_support/config.ini" timestamp="1557950060052">
         <mark key="[" line="30" column="6" />
         <mark key="]" line="30" column="14" />
         <mark key="." line="30" column="14" />
         <mark key="^" line="30" column="14" />
       </file>
-      <file name="$USER_HOME$/Developer/gobot/gobot/gobotDB.py" timestamp="1564876272205" />
       <file name="$USER_HOME$/PycharmProjects/untitled/package/foo1.py" timestamp="1534302784395">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="5" />
@@ -182,7 +176,7 @@
         <mark key="^" line="175" column="55" />
         <mark key="." line="175" column="55" />
       </file>
-      <file name="/Python Console" timestamp="1562095866120">
+      <file name="/Python Console" timestamp="1564943908965">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1550021651260">
@@ -212,16 +206,17 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Volumes/Audio/Developer/gobot/gobot/Updater.py" timestamp="1557871648333">
-        <mark key="[" line="284" column="0" />
-        <mark key="]" line="284" column="0" />
-        <mark key="." line="284" column="0" />
-      </file>
       <file name="$USER_HOME$/Developer/gobot/gobot/classes/account.py" timestamp="1559322999077">
         <mark key="'" line="46" column="0" />
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1564945039924">
+        <mark key="[" line="9" column="49" />
+        <mark key="]" line="10" column="34" />
+        <mark key="." line="10" column="34" />
+        <mark key="^" line="10" column="34" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/package/__init__.py" timestamp="1534302592301">
         <mark key="[" line="0" column="0" />
@@ -293,11 +288,6 @@
         <mark key="." line="188" column="64" />
         <mark key="^" line="188" column="64" />
       </file>
-      <file name="$USER_HOME$/Programming/Crypto/gobot/backtesting/new_backtest_v3.py" timestamp="1550355080108">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/sibling/sib.py" timestamp="1534302749563">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
@@ -316,11 +306,6 @@
         <mark key="^" line="118" column="18" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Programming/Crypto/gobot/backtesting/newtest.py" timestamp="1550355083563">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/alchemy_scratch.py" timestamp="1544814265632">
         <mark key="[" line="2" column="75" />
         <mark key="]" line="2" column="75" />
@@ -332,6 +317,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/gobot/crontabs/Updater.py" timestamp="1564945309161">
+        <mark key="'" line="147" column="4" />
+        <mark key="[" line="188" column="48" />
+        <mark key="]" line="188" column="48" />
+        <mark key="." line="188" column="48" />
       </file>
       <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/reset_db.py" timestamp="1544820943324">
         <mark key="[" line="27" column="97" />
@@ -372,6 +363,12 @@
         <mark key="." line="8" column="26" />
         <mark key="^" line="8" column="26" />
       </file>
+      <file name="$USER_HOME$/Developer/gobot/gobot/helpers.py" timestamp="1564944041887">
+        <mark key="[" line="45" column="20" />
+        <mark key="]" line="45" column="26" />
+        <mark key="^" line="45" column="26" />
+        <mark key="." line="45" column="26" />
+      </file>
       <file name="/Volumes/Audio/Programming/Crypto/gobot/gobot/analysis/sale.py" timestamp="1527101865386">
         <mark key="[" line="80" column="56" />
         <mark key="]" line="81" column="0" />
@@ -399,9 +396,11 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
+      <file name="$USER_HOME$/Developer/gobot/tests/test_gobotDB.py" timestamp="1564943376273" />
       <file name="/&quot;&quot;" timestamp="1558056901310">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/gobot/tests/test_helpers.py" timestamp="1564943360233" />
       <file name="/Volumes/Audio/Programming/Crypto/gobot/gobot/analysis/plot_gains.py" timestamp="1527968576120">
         <mark key="[" line="288" column="0" />
         <mark key="]" line="299" column="13" />
@@ -419,11 +418,6 @@
         <mark key="]" line="148" column="53" />
         <mark key="." line="148" column="53" />
         <mark key="^" line="148" column="53" />
-      </file>
-      <file name="$USER_HOME$/Programming/Crypto/gobot/backtesting/update_tradingpairs.py" timestamp="1550355086619">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="/Volumes/Audio/Developer/gobot/tests/pytest.ini" timestamp="1557952111874">
         <mark key="[" line="2" column="8" />
@@ -458,21 +452,6 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/Volumes/Audio/Developer/open_source/freqtrade/docs/telegram-usage.md" timestamp="1554601952736">
-        <mark key="[" line="25" column="4" />
-        <mark key="]" line="25" column="4" />
-        <mark key="." line="25" column="4" />
-      </file>
-      <file name="/Volumes/Audio/Developer/gobot/gobot/helpers.py" timestamp="1558068971268">
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="." line="153" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programming/Crypto/gobot/jb/compare_a1_a3.py" timestamp="1550352093860">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="/gdax_functions" timestamp="1557958890748">
         <mark key="[" line="0" column="0" />
       </file>
@@ -487,16 +466,6 @@
         <mark key="]" line="114" column="0" />
         <mark key="^" line="104" column="31" />
         <mark key="." line="114" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programming/Crypto/gobot/backtesting/Backtester.py" timestamp="1550355066269">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Programming/Crypto/gobot/backtesting/Backtester_v0.py" timestamp="1550355070417">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/test_project/folder/runner.py" timestamp="1534028274456">
         <mark key="[" line="1" column="0" />
@@ -633,7 +602,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="209" column="28" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
       <jump line="229" column="41" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
       <jump line="339" column="13" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
       <jump line="349" column="15" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
@@ -733,6 +701,7 @@
       <jump line="97" column="33" filename="$USER_HOME$/Developer/gobot/tests/test_api_clients.py" />
       <jump line="96" column="0" filename="$USER_HOME$/Developer/gobot/gobot/classes/account.py" />
       <jump line="58" column="0" filename="$USER_HOME$/Developer/gobot/gobot/classes/account.py" />
+      <jump line="147" column="4" filename="$USER_HOME$/Developer/gobot/crontabs/Updater.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -744,7 +713,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1634,16 +1603,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>pairs</text>
+        <text>active</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QHB5dGVzdC5tYXJrLnNraXAK</text>
+        <text encoding="base64">ICAgIHRwID0gcGQucmVhZF9zcWwoJ1NFTEVDVCAqIEZST00gdHJhZGluZ3BhaXJzIHdoZXJlIGFjdGl2ZT0iWSInLCBjb25uLCBpbmRleF9jb2w9J2lkJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQodV90KQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGRlbGV0ZV9xcnkpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1655,16 +1624,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGx0LnBsb3QodCwgdV90KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3IgPSAxMDAK</text>
+        <text encoding="base64">cHJpbnQoRXhjaC5FWENIX0NPREVTKQoK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1688,25 +1657,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">eHcgPSBzaGlmdCgK</text>
+        <text encoding="base64">aW1wb3J0IGhlbHBlcnMgYXMgaGxwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHNjaXB5IAo=</text>
+        <text encoding="base64">ZXhjaCAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">d190ID0gdV90IC0gc2NpcHkucmlnaHRfc2hpZnQoa2tra2spCg==</text>
+        <text encoding="base64">cHJpbnQoZXhjaHMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dSA9IG5wLmhlYXZpc2lkZShvbmVzLCAxKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/btc/eth/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pairs</last-search>
+      <last-search>active</last-search>
       <last-offset />
-      <last-pattern>pairs</last-pattern>
+      <last-pattern>active</last-pattern>
       <last-replace>eth</last-replace>
       <last-substitute>btc</last-substitute>
       <last-dir>1</last-dir>
@@ -1714,7 +1683,6 @@
     </search>
     <history>
       <history-search>
-        <entry>info</entry>
         <entry>logging.info</entry>
         <entry>bittrex</entry>
         <entry>logging</entry>
@@ -1734,6 +1702,7 @@
         <entry>Account</entry>
         <entry>btc</entry>
         <entry>pairs</entry>
+        <entry>active</entry>
       </history-search>
       <history-cmd>
         <entry>%s/;//</entry>
@@ -1752,10 +1721,10 @@
         <entry>75g</entry>
         <entry>g75</entry>
         <entry>75</entry>
-        <entry>w</entry>
         <entry>53,+10d</entry>
         <entry>s/btc/eth</entry>
         <entry>s/btc/eth/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
