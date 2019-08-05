@@ -37,11 +37,17 @@
         <mark key="^" line="132" column="3" />
         <mark key="." line="132" column="3" />
       </file>
-      <file name="$USER_HOME$/Developer/gobot/app_support/config.ini" timestamp="1564963731834">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="20" column="15" />
+      <file name="$USER_HOME$/Developer/gobot/app_support/config.ini" timestamp="1564968162286">
+        <mark key="[" line="44" column="11" />
+        <mark key="]" line="44" column="11" />
+        <mark key="." line="44" column="11" />
+        <mark key="^" line="45" column="0" />
+      </file>
+      <file name="/Updater" timestamp="1564968660573">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/'backtest_1'" timestamp="1527005543352">
         <mark key="[" line="0" column="0" />
@@ -182,7 +188,7 @@
         <mark key="^" line="175" column="55" />
         <mark key="." line="175" column="55" />
       </file>
-      <file name="/Python Console" timestamp="1564946452633">
+      <file name="/Python Console" timestamp="1564968029934">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="56" />
         <mark key="^" line="0" column="56" />
@@ -724,7 +730,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>w</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1614,7 +1620,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text>Failed</text>
