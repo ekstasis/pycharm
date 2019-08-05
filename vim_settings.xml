@@ -328,12 +328,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/gobot/crontabs/Updater.py" timestamp="1564964270023">
-        <mark key="'" line="123" column="42" />
-        <mark key="[" line="256" column="20" />
-        <mark key="]" line="256" column="24" />
-        <mark key="." line="256" column="24" />
-        <mark key="^" line="256" column="24" />
+      <file name="$USER_HOME$/Developer/gobot/crontabs/Updater.py" timestamp="1564967599337">
+        <mark key="'" line="311" column="31" />
+        <mark key="[" line="93" column="54" />
+        <mark key="]" line="93" column="55" />
+        <mark key="." line="93" column="55" />
+        <mark key="^" line="93" column="55" />
       </file>
       <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/reset_db.py" timestamp="1544820943324">
         <mark key="[" line="27" column="97" />
@@ -545,7 +545,7 @@
         <mark key="^" line="12" column="20" />
         <mark key="." line="11" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564964277563">
+      <file name="/Dummy.txt" timestamp="1564967638787">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -613,12 +613,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="223" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/grabber.py" />
-      <jump line="266" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/grabber.py" />
-      <jump line="264" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/grabber.py" />
-      <jump line="130" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/grabber.py" />
-      <jump line="45" column="21" filename="$USER_HOME$/Programming/Crypto/gobot/backtesting/new_backtest.py" />
-      <jump line="23" column="16" filename="$USER_HOME$/Programming/Crypto/gobot/app_support/config.ini" />
       <jump line="29" column="1" filename="$USER_HOME$/Programming/Crypto/gobot/app_support/config.ini" />
       <jump line="30" column="6" filename="$USER_HOME$/Programming/Crypto/gobot/app_support/config.ini" />
       <jump line="75" column="19" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/Updater.py" />
@@ -713,6 +707,12 @@
       <jump line="350" column="27" filename="$USER_HOME$/Developer/gobot/crontabs/Updater.py" />
       <jump line="353" column="24" filename="$USER_HOME$/Developer/gobot/crontabs/Updater.py" />
       <jump line="123" column="42" filename="$USER_HOME$/Developer/gobot/crontabs/Updater.py" />
+      <jump line="349" column="25" filename="$USER_HOME$/Developer/gobot/crontabs/Updater.py" />
+      <jump line="221" column="67" filename="$USER_HOME$/Developer/gobot/crontabs/Updater.py" />
+      <jump line="339" column="37" filename="$USER_HOME$/Developer/gobot/crontabs/Updater.py" />
+      <jump line="138" column="40" filename="$USER_HOME$/Developer/gobot/crontabs/Updater.py" />
+      <jump line="122" column="33" filename="$USER_HOME$/Developer/gobot/crontabs/Updater.py" />
+      <jump line="311" column="31" filename="$USER_HOME$/Developer/gobot/crontabs/Updater.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -724,7 +724,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>warning</text>
+        <text>t</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1614,10 +1614,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>warning</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>active</text>
+        <text>Failed</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiBlbGFwc2VkID4gLjI1OgogICAgICAgICAgICBsb2dnaW5nLndhcm5pbmcoIkZpbmRpbmcgbGF0ZXN0IHdpdGggRU1BcyBmb3IgJXMgdG9vayB0b28gbG9uZzogJS4yZiBzZWNvbmRzIiwgY29pbiwgZWxhcHNlZCkK</text>
@@ -1684,9 +1684,9 @@
       </register>
     </registers>
     <search>
-      <last-search>active</last-search>
+      <last-search>Failed</last-search>
       <last-offset />
-      <last-pattern>active</last-pattern>
+      <last-pattern>Failed</last-pattern>
       <last-replace>eth</last-replace>
       <last-substitute>btc</last-substitute>
       <last-dir>1</last-dir>
@@ -1694,10 +1694,6 @@
     </search>
     <history>
       <history-search>
-        <entry>logging</entry>
-        <entry>Entered</entry>
-        <entry>Failed to get</entry>
-        <entry>tradingpairs</entry>
         <entry>tp</entry>
         <entry>active?</entry>
         <entry>JB</entry>
@@ -1714,6 +1710,10 @@
         <entry>mode</entry>
         <entry>run_mode</entry>
         <entry>active</entry>
+        <entry>unable</entry>
+        <entry>Unable</entry>
+        <entry>find</entry>
+        <entry>Failed</entry>
       </history-search>
       <history-cmd>
         <entry>%s/;//</entry>
