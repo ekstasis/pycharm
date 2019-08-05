@@ -328,12 +328,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/gobot/crontabs/Updater.py" timestamp="1564961342308">
-        <mark key="'" line="371" column="61" />
-        <mark key="[" line="258" column="73" />
-        <mark key="]" line="258" column="76" />
-        <mark key="." line="258" column="76" />
-        <mark key="^" line="258" column="76" />
+      <file name="$USER_HOME$/Developer/gobot/crontabs/Updater.py" timestamp="1564962629954">
+        <mark key="'" line="123" column="42" />
+        <mark key="[" line="194" column="17" />
+        <mark key="]" line="195" column="62" />
+        <mark key="." line="195" column="62" />
+        <mark key="^" line="195" column="62" />
       </file>
       <file name="$USER_HOME$/Programming/Crypto/gobot/gobot/reset_db.py" timestamp="1544820943324">
         <mark key="[" line="27" column="97" />
@@ -545,7 +545,7 @@
         <mark key="^" line="12" column="20" />
         <mark key="." line="11" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564961356038">
+      <file name="/Dummy.txt" timestamp="1564962635504">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -613,10 +613,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/crontabs/Updater.py" />
-      <jump line="9" column="9" filename="$USER_HOME$/Programming/Crypto/gobot/jb/go_bot_go.py" />
-      <jump line="7" column="24" filename="$USER_HOME$/Programming/Crypto/gobot/jb/go_bot_go.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/grabber.py" />
       <jump line="223" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/grabber.py" />
       <jump line="266" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/grabber.py" />
       <jump line="264" column="0" filename="$USER_HOME$/Programming/Crypto/gobot/gobot/grabber.py" />
@@ -713,6 +709,10 @@
       <jump line="33" column="13" filename="$USER_HOME$/Developer/gobot/crontabs/Updater.py" />
       <jump line="82" column="7" filename="$USER_HOME$/Developer/gobot/crontabs/Updater.py" />
       <jump line="371" column="61" filename="$USER_HOME$/Developer/gobot/crontabs/Updater.py" />
+      <jump line="254" column="52" filename="$USER_HOME$/Developer/gobot/crontabs/Updater.py" />
+      <jump line="350" column="27" filename="$USER_HOME$/Developer/gobot/crontabs/Updater.py" />
+      <jump line="353" column="24" filename="$USER_HOME$/Developer/gobot/crontabs/Updater.py" />
+      <jump line="123" column="42" filename="$USER_HOME$/Developer/gobot/crontabs/Updater.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -723,8 +723,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>elapsed</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRwID0gcGQucmVhZF9zcWwoJ1NFTEVDVCAqIEZST00gdHJhZGluZ3BhaXJzJywgY29ubiwgaW5kZXhfY29sPSdpZCcpCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1614,16 +1614,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>elapsed</text>
+        <text>active</text>
       </register>
       <register name="/" type="4">
-        <text>run_mode</text>
+        <text>active</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnaW5nLmRlYnVnKCJGaW5kaW5nIGxhdGVzdCBmdWxsIGNhbmRsZSBmb3IgJXMiLCBjb2luKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGxvZ2dpbmcuZGVidWcoIkZpbmRpbmcgbGF0ZXN0IGZ1bGwgY2FuZGxlIGZvciAlcyIsIGNvaW4pCg==</text>
+        <text encoding="base64">ICAgIHRwID0gcGQucmVhZF9zcWwoJ1NFTEVDVCAqIEZST00gdHJhZGluZ3BhaXJzJywgY29ubiwgaW5kZXhfY29sPSdpZCcpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1635,16 +1635,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5kZWJ1ZygiQ29pbjogJXMgIHJvd3M6ICVkICB0aW1lOiAlLjJmIiwgY29pbiwgcm93cywgZWxhcHNlZCkK</text>
+        <text encoding="base64">ICAgICAgICAjIGxvZ2dpbmcuZGVidWcoIkZpbmRpbmcgbGF0ZXN0IGZ1bGwgY2FuZGxlIGZvciAlcyIsIGNvaW4pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBsb2dnaW5nLndhcm5pbmcoIk5vdCBGb3VuZCEgICglLjJmIGVsYXBzZWQpIiwgZWxhcHNlZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5kZWJ1ZygiQ29pbjogJXMgIHJvd3M6ICVkICB0aW1lOiAlLjJmIiwgY29pbiwgcm93cywgZWxhcHNlZCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5kZWJ1ZygiQ29pbjogJXMgIHJvd3M6ICVkICB0aW1lOiAlLjJmIiwgY29pbiwgcm93cywgZWxhcHNlZCkKICAgICAgICAgICAgY2FuZGxlcy5hcHBlbmQoY3Vyc29yLmZldGNob25lKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBsb2dnaW5nLndhcm5pbmcoIk5vdCBGb3VuZCEgICglLjJmIGVsYXBzZWQpIiwgZWxhcHNlZCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxhcHNlZCA9IGVuZCAtIHN0YXJ0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5kZWJ1ZygiQ29pbjogJXMgIHJvd3M6ICVkICB0aW1lOiAlLjJmIiwgY29pbiwgcm93cywgZWxhcHNlZCkKICAgICAgICAgICAgY2FuZGxlcy5hcHBlbmQoY3Vyc29yLmZldGNob25lKCkpCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1668,25 +1668,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbGFwc2VkID0gZW5kIC0gc3RhcnQKICAgICAgICBsb2dnaW5nLmRlYnVnKCJDb2luOiAlcyAgcm93czogJWQgIHRpbWU6ICUuMmYiLCBjb2luLCByb3dzLCBlbGFwc2VkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxhcHNlZCA9IGVuZCAtIHN0YXJ0Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBlbGFwc2VkID0gZW5kIC0gc3RhcnQKICAgICAgICBsb2dnaW5nLmRlYnVnKCJDb2luOiAlcyAgcm93czogJWQgIHRpbWU6ICUuMmYiLCBjb2luLCByb3dzLCBlbGFwc2VkKQo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyBsb2dnaW5nLmRlYnVnKCJGb3VuZCAlcyIsIGNvaW4pCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">bGF0ZXN0IGZ1bGwgY2FuZGxlIGZvciAlcyIsIGNvaW4pCiAgICByZXR1cm4gY2FuZGxlcwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZXhjaCA9IEV4Y2goJ2JpbmEnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>run_mode</last-search>
+      <last-search>active</last-search>
       <last-offset />
-      <last-pattern>run_mode</last-pattern>
+      <last-pattern>active</last-pattern>
       <last-replace>eth</last-replace>
       <last-substitute>btc</last-substitute>
       <last-dir>1</last-dir>
@@ -1711,9 +1711,9 @@
         <entry>Account</entry>
         <entry>btc</entry>
         <entry>pairs</entry>
-        <entry>active</entry>
         <entry>mode</entry>
         <entry>run_mode</entry>
+        <entry>active</entry>
       </history-search>
       <history-cmd>
         <entry>%s/;//</entry>
