@@ -6,8 +6,6 @@
       <debugger id="python">
         <configuration>
           <option name="librariesFilterEnabled" value="true" />
-          <option name="loadValuesAsync" value="false" />
-          <option name="simplifiedView" value="false" />
         </configuration>
       </debugger>
     </debuggers>
